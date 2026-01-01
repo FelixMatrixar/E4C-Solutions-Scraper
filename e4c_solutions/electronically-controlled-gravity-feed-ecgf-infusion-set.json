@@ -1,0 +1,46 @@
+{
+  "slug": "electronically-controlled-gravity-feed-ecgf-infusion-set",
+  "url": "https://www.engineeringforchange.org/solutions/product/electronically-controlled-gravity-feed-ecgf-infusion-set/",
+  "name": "Electronically Controlled Gravity-feed (ECGF) Infusion Set",
+  "description": "An infusion controller that monitors and regulates intravenous fluids or medication during therapy in patients.",
+  "updated_on": "December 4, 2023",
+  "created_on": "October 3, 2020",
+  "sdgs": [
+    "SDG 3: Good Health and Well-Being"
+  ],
+  "taxonomy": {
+    "sector": "Health",
+    "sub_sector": "Therapeutic",
+    "category": "Drug Delivery",
+    "sub_category": "Electronically Controlled Gravity-feed (ECGF) Infusion Set Updated on December 4, 2023 · Created on October 3, 2020 Electronically Controlled Gravity-feed (ECGF) Infusion Set Upcoming Update An infusion controller that monitors and regulates intravenous fluids or medication during therapy in patients. Developed By Uganda Industrial Research Institute Tested By Electronically Controlled Gravity-feed (ECGF) Infusion Set Content Partners Unknown Info Tags Upcoming Update Snapshot Manufacturing & Delivery Performance & Use Research & Standards Feedback Product Description The Electronically Controlled Gravity Feed Infusion set features dynamic flow control that monitors and regulates intravenous fluids or medication during therapy. It is an add-on device that is applicable with existing intravenous drip sets. Target SDGs SDG 3: Good Health and Well-Being Market Suggested Retail Price $100.00 Target Users (Target Impact Group) Household Distributors / Implementing Organizations Uganda Industrial Research Institute Countries Rwanda, Uganda Manufacturing/Building Method The ECGF device prototypes were manufactured in Uganda. The device is still in prototype phase and not yet manufactured at scale. Intellectural Property Type Select Type User Provision Model The device is still in prototyping phase and so the designers have not yet selected their user provision model. Distributions to Date Status To date, 5 prototypes have been manufactured and used for clinical testing. There are no market distribution for the product yet. Delivery depths Intravenous delivery Maximum injection volume (mL) N/A Design Specifications The ECGF device is designed to accurately administer fluids and other therapeutics intravenously by controlling the rate of fluid flow based on feedback from a drop sensor. An actuator is used to control the flow of fluid. The device uses both a mains and solar battery. The device automates the regulation of fluid and drug delivery and removes the need for manual regulation, as is the current standard in Uganda. To set the desired flow rate, the user uses the device keypad to type in the desired flow rate. Product Schematics Technical Support Provided by the manufacturer. Replacement Components The device battery must be replaced after is maximum recharge cycles. Lifecycle Battery life is approximately 8 hours. Manufacturer Specified Performance Parameters Manufacturer specified performance targets include safety, accuracy, ease of use, and maintainability. Vetted Performance Status 5 prototype devices were built and pre-clinically tested in 2017. After the initial testing, clinicians were trained to install and operate the ECGF device where the time required for clinicians to regulate and monitor fluids was studied. During the clinical trial, 79 nurses, doctors, and biomedical technicians from 3 health facilities were trained on the ECGF device. Both user experience data, such as ease of set up, usability, functionality, safety, and ergonomics, as well as analytical data was collected. The analytical data focused on flow rate accuracy. In the first human pilot consisting of 12 adults, the device achieved a flow rate accuracy (ie. percentage error margin between the prescribed and actual dosages) of +/- 7%. A clinical safety trial for children aged 5-8 was conducted and found that the most notable improvements by the ECGF device were in children suffering from malaria, dehydration, severe diarrhea, and pneumonia. A final clinical trial for children aged up to 4 years was completed in early February 2019 and the analysis is being finalized. The clinical trials had 160 participating children. Safety The device features several safety systems such as alarms for rate of infusion (rapid or slow), total volume, and faulty sensors. A safety trial was conducted with adults and children. The team is improving the ECGF design to further improve the flow rate regulation. Complementary Technical Systems The ECGF device is compatible with existing intravenous drips. Academic Research and References P. N., Makobore and M., Mulerwa, 2019, An Electronically Controlled Gravity Feed Infusion Set for Intravenous Fluids , Biomed. Eng. Africa, pp. 124–138. Compliance with regulations The designers are planning to obtain CE marking for the device. Evaluation methods The product has been evaluated for flow rate accuracy, ergonomics, safety, and ease of use. Other Information The development of the ECGF device was sponsored by Grand Challenges Canada in the Stars in Global Health program from 2017-2018. The ECGF device won second prize in the Health and Wellbeing Innovations Category at the 2017 IPA Awards in Accra, Ghana . Leave a Reply You must be logged in to post a comment. All Solutions Explore similar solutions Agriculture February 5, 2024 DripAssist Infusion Rate Monitor Read Solution Implemented by Shift Labs Agriculture December 7, 2023 Rainfresh MP4U Gravity Filter Read Solution Implemented by Envirogard Products Ltd Agriculture January 30, 2024 Gravity Water Read Solution Implemented by Danny Wright Agriculture June 23, 2024 AguaPallet Read Solution Implemented by LoooP Creative Ltd Agriculture January 10, 2024 Aquatainer 10L Collapsible Read Solution Implemented by NRSRelief Agriculture December 31, 2023 Berkeley-Darfur Stove V.14 Read Solution Implemented by Potential Energy Agriculture June 22, 2024 Buffalo Bicycle Read Solution Implemented by World Bicycle Relief Agriculture June 8, 2024 ClickMedix Read Solution Implemented by ClickMedix Agriculture February 14, 2024 EasyNat TB-CPA Diagnostic Kit Read Solution Implemented by USTAR Biotechnologies (Hangzhou) LTD Agriculture January 8, 2024 ElectroChemical Arsenic Remediation (ECAR) Read Solution Implemented by Gadgil Lab, University of California Berkeley Contribute to E4C's Library of Breakthrough Sustainable Development Technology Solutions Suggest A Solution Get more information about Solutions Library and its features. Learn More Have thoughts on how we can improve? Give Us Feedback Join a global community of changemakers. Become A Member Join our newsletter to stay up to date on news, insights, and opportunities. Email Name This field is for validation purposes and should be left unchanged. Subscribe Δ By subscribing you agree to with our Privacy Policy and provide consent to receive updates from our company. Contact Us About Us Impact Fellowship E4C Solutions Library Community Opportunities Challenges News and Insights Fund Us Impact Projects Advisory Services © 2026 Engineering For Change All Rights Reserved. Home News and Insights Privacy Policy Terms of Use"
+  },
+  "attribution": {
+    "developed_by": [],
+    "tested_by": [],
+    "content_partners": []
+  },
+  "snapshot": {
+    "Product Description": "The Electronically Controlled Gravity Feed Infusion set features dynamic flow control that monitors and regulates intravenous fluids or medication during therapy. It is an add-on device that is applicable with existing intravenous drip sets.",
+    "Leave a Reply": "You must be logged in to post a comment."
+  },
+  "manufacturing_delivery": {},
+  "performance_use": {},
+  "research_standards": {
+    "academic_references": "P. N., Makobore and M., Mulerwa, 2019,",
+    "other_information": "The development of the ECGF device was sponsored by"
+  },
+  "feedback": {},
+  "similar_solutions": [
+    "https://www.engineeringforchange.org/solutions/product/aguapallet/",
+    "https://www.engineeringforchange.org/solutions/product/aquatainer-10l-collapsible/",
+    "https://www.engineeringforchange.org/solutions/product/berkeley-darfur-stove-v-14/",
+    "https://www.engineeringforchange.org/solutions/product/buffalo-bike/",
+    "https://www.engineeringforchange.org/solutions/product/clickmedix/",
+    "https://www.engineeringforchange.org/solutions/product/dripassist-infusion-rate-monitor/",
+    "https://www.engineeringforchange.org/solutions/product/easynat-tb-cpa-diagnostic-kit/",
+    "https://www.engineeringforchange.org/solutions/product/electrochemical-arsenic-remediation-ecar/",
+    "https://www.engineeringforchange.org/solutions/product/gravity-water/",
+    "https://www.engineeringforchange.org/solutions/product/rainfresh-mp4u-gravity-filter/"
+  ],
+  "scraped_at": "2026-04-03T06:56:25Z"
+}

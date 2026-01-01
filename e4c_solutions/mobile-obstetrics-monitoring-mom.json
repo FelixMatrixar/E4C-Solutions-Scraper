@@ -1,0 +1,46 @@
+{
+  "slug": "mobile-obstetrics-monitoring-mom",
+  "url": "https://www.engineeringforchange.org/solutions/product/mobile-obstetrics-monitoring-mom/",
+  "name": "Mobile Obstetrics Monitoring (MOM)",
+  "description": "Philips Mobile Obstetrics Monitoring (MOM) is a software solution that allows community healthcare workers to enhance maternal care in community settings",
+  "updated_on": "June 8, 2024",
+  "created_on": "August 28, 2017",
+  "sdgs": [
+    "SDG 3: Good Health and Well-Being"
+  ],
+  "taxonomy": {
+    "sector": "ICT",
+    "sub_sector": "eHealth",
+    "category": "eHealth",
+    "sub_category": "Mobile Obstetrics Monitoring (MOM) Updated on June 8, 2024 · Created on August 28, 2017 Mobile Obstetrics Monitoring (MOM) Philips Mobile Obstetrics Monitoring (MOM) is a software solution that allows community healthcare workers to enhance maternal care in community settings Developed By Philips Tested By Mobile Obstetrics Monitoring (MOM) Content Partners Unknown Info Tags Snapshot Manufacturing & Delivery Performance & Use Research & Standards Feedback Product Description Philips Mobile Obstetrics Monitoring (MOM) is a software solution that allows community healthcare workers to perform antenatal risk stratification, receive diagnostic assistance, and assess a patient’s progress via a mobile device to enhance maternal care in community settings. Target SDGs SDG 3: Good Health and Well-Being Target Users (Target Impact Group) Community, Public Sector Agencies, NGOs Distributors / Implementing Organizations Philips. Regions Worldwide Manufacturing/Building Method Software development Intellectural Property Type Trademark User Provision Model Direct from manufacturer. Distributions to Date Status Unknown Telecommunication service required Mobile telecommunication network required for the service to work properly. Level of connection service needed Minimum 2G connectivity required. Additional features required None. Device(s) required End-users require smart-phone to access service’s app. For data storage a site is required in order to deploy and operate a web server. Permanent network connectivity required (Y/N) End-users with mobile phone require ocasional network connection to upload and consult information. Web-server requires permanent network connection. Two way communication (Y/N) Yes. Usage rate (%) Unknown Literacy support (Y/N) Yes. Languages available Unknown Operating system and version Unknown Power requirements End-users with mobile phone require ocasional power supply. Web-server requires permanent power supply. eHealth application Data collection & analytics. Design Specifications The MOM service features two mobile phone apps. The first app allows midwives to collect vital measurement data such as weight, blood pressure and temperature, and sync it to the MOM web portal. The second lets doctors track this data and review a woman’s pregnancy condition. Specialists at regional primary care centers can also access the data via a MOM web portal to monitor women’s conditions and assess high-risk pregnancies via a dashboard interface. Product Schematics Technical Support Users can contact Philips for further information and technical support. Replacement Components N/A Lifecycle N/A Manufacturer Specified Performance Parameters MoM enables end users can review and manage each obstetric case which facilitates timely referral of the patient to an appropriate healthcare center for further management if needed. Vetted Performance Status None. Safety N/A Complementary Technical Systems None Academic Research and References Priyanka Bhat, Akshar Joshi, Tanmay S Bhat, Prof. Rajesh N V. Analysis and Study of IoT based e-health models and APIs . International Journal of Innovations & Advancement in Computer Science, IJIACS, ISSN 2347 – 8616, Volume 7, Issue 4, April 2018 Mark Schultz, Stephen Ezell, and David Lund. How Innovators Are Solving Global Health Challenges . Innovate4Health N.d. Philips.Com. Accessed June 8, 2024. https://images.philips.com/is/content/PhilipsConsumer/Campaigns/HC20140401_DG/Documents/452299115391_MOM_Brochure_HR.pdf “Philips – Indonesia.” n.d. Philips. Accessed June 8, 2024. https://www.philips.co.id/ “Inicio.” n.d. Tulasalud.Org. Accessed June 8, 2024. https://www.tulasalud.org/ “Goal 3.” n.d. Sdgs.Un.Org. Accessed June 7, 2024. https://sdgs.un.org/goals/goal3 Schultz, Editors: Mark, Stephen Ezell, and David Lund. n.d. “How Innovators Are Solving Global Health Challenges.” Itif.Org. Accessed June 8, 2024. https://www2.itif.org/2018-innovate-4-health-case-studies.pdf Compliance with regulations Specific policies on privacy and health information need to be addressed in each country. Evaluation methods Field Trials Other Information Philips. Mobile Obstetrics Monitoring (MOM) as a model for community-based antenatal care delivery in a low-resource setting . Leave a Reply You must be logged in to post a comment. All Solutions Explore similar solutions Agriculture September 27, 2024 mOm Incubator Read Solution Implemented by mOm Incubator Agriculture June 23, 2024 Planet Monitoring Read Solution Implemented by Planet Labs Agriculture March 8, 2024 Portable Respiratory Monitoring System Read Solution Agriculture June 6, 2024 Medic Mobile Read Solution Agriculture June 22, 2024 Off Road Mobile Clinic Read Solution Implemented by Mobile Clinics & Hospitals Agriculture June 22, 2024 Philips and Rhiza Foundation Mobile Clinic Read Solution Implemented by Phillips South Africa and Rhiza Foundation Agriculture June 30, 2024 Girl Effect Mobile Read Solution Implemented by Girl Effect Agriculture June 22, 2024 Mobile General Medicine Clinic Read Solution Implemented by Odulair Agriculture February 23, 2024 Referral App (Vula Mobile) Read Solution Implemented by Vula Mobile Agriculture June 30, 2024 Echo Mobile Read Solution Implemented by Echo Mobile Contribute to E4C's Library of Breakthrough Sustainable Development Technology Solutions Suggest A Solution Get more information about Solutions Library and its features. Learn More Have thoughts on how we can improve? Give Us Feedback Join a global community of changemakers. Become A Member Join our newsletter to stay up to date on news, insights, and opportunities. Email Email This field is for validation purposes and should be left unchanged. Subscribe Δ By subscribing you agree to with our Privacy Policy and provide consent to receive updates from our company. Contact Us About Us Impact Fellowship E4C Solutions Library Community Opportunities Challenges News and Insights Fund Us Impact Projects Advisory Services © 2026 Engineering For Change All Rights Reserved. Home News and Insights Privacy Policy Terms of Use"
+  },
+  "attribution": {
+    "developed_by": [],
+    "tested_by": [],
+    "content_partners": []
+  },
+  "snapshot": {
+    "Product Description": "Philips Mobile Obstetrics Monitoring (MOM) is a software solution that allows community healthcare workers to perform antenatal risk stratification, receive diagnostic assistance, and assess a patient’s progress via a mobile device to enhance maternal care in community settings.",
+    "Leave a Reply": "You must be logged in to post a comment."
+  },
+  "manufacturing_delivery": {},
+  "performance_use": {},
+  "research_standards": {
+    "academic_references": "Priyanka Bhat, Akshar Joshi, Tanmay S Bhat, Prof. Rajesh N V.",
+    "other_information": "Philips."
+  },
+  "feedback": {},
+  "similar_solutions": [
+    "https://www.engineeringforchange.org/solutions/product/echo-mobile/",
+    "https://www.engineeringforchange.org/solutions/product/girl-effect-mobile/",
+    "https://www.engineeringforchange.org/solutions/product/medic-mobile/",
+    "https://www.engineeringforchange.org/solutions/product/mobile-general-medicine-clinic/",
+    "https://www.engineeringforchange.org/solutions/product/mom-incubator/",
+    "https://www.engineeringforchange.org/solutions/product/off-road-mobile-clinic/",
+    "https://www.engineeringforchange.org/solutions/product/philips-rhiza-foundation-mobile-clinic/",
+    "https://www.engineeringforchange.org/solutions/product/planet-monitoring/",
+    "https://www.engineeringforchange.org/solutions/product/portable-respiratory-monitoring-system/",
+    "https://www.engineeringforchange.org/solutions/product/referral-app-vula-mobile/"
+  ],
+  "scraped_at": "2026-04-03T06:57:01Z"
+}

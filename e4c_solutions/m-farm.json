@@ -1,0 +1,46 @@
+{
+  "slug": "m-farm",
+  "url": "https://www.engineeringforchange.org/solutions/product/m-farm/",
+  "name": "M-Farm",
+  "description": "M-Farm is a service that provides up-to-date market prices to farmers and connects them with buyers.",
+  "updated_on": "January 6, 2025",
+  "created_on": "October 8, 2018",
+  "sdgs": [
+    "SDG 2: Zero Hunger"
+  ],
+  "taxonomy": {
+    "sector": "ICT",
+    "sub_sector": "eAgriculture",
+    "category": "eAgriculture",
+    "sub_category": "M-Farm Updated on January 6, 2025 · Created on October 8, 2018 M-Farm M-Farm is a service that provides up-to-date market prices to farmers and connects them with buyers. Developed By M-Farm Tested By M-Farm Content Partners Unknown Info Tags Snapshot Manufacturing & Delivery Performance & Use Research & Standards Feedback Product Description M-Farm is a tool designed to deliver updated price information, it also allows for collective crop selling, and collective input buying. The service works through the website or SMS inquiries. While the app is still downloadable, the platform has not been updated since 2019. Target SDGs SDG 2: Zero Hunger Target Users (Target Impact Group) Household Distributors / Implementing Organizations Unknown Competitive Landscape Direct competitors include Akorion EzyAgric App , WeFarm , and Esoko . Countries Kenya Manufacturing/Building Method Software development Intellectural Property Type Copyright User Provision Model Online sign up Distributions to Date Status 7000 users as of 2013 Design Specifications In addition to providing updated pricing information, M-Farm created an advanced feature, where an agent aggregates demand and supply of Central Kenya farmers. Technical Support M-Farm Replacement Components N/A Lifecycle N/A Manufacturer Specified Performance Parameters Provide price updated information and create a market network that serves smallholder farmers. Vetted Performance Status A study performed with 600 farmers reports farmers could double their sales by using M-Farm in central Kenya. Safety N/A Complementary Technical Systems Transactions integrated with MFarm's mobile money transfer system, allowing usage of M-Pesa, but also permitting connecting to user's bank accounts. Academic Research and References Ogotu, S. and others, 2014, Impact of Information and Communication Technology-Based Market Information Services on Smallholder Farm Input Use and Productivity: The Case of Kenya , World Development, Volume 64, Pages 311-321, ISSN 0305-750X, Crandall, A., 2012, Kenyan Farmer’s Use of Cell Phones: Calling Preferred over SMS , Proceedings of M4D2012, 28-29 February 2012, New Delhi, India Fisac Garcia, R., Acevedo Ruiz, M., Moreno Romero, A.M. and Kreiner, T., 2013, The Role of ICT in Scaling Up the Impact of Social Enterprises, Journal of Management for Global Sustainability, v. 1 (n. 2); pp. 83-105. ISSN 2244-6893 Baumüller, H., 2013, Enhancing smallholder market participation through mobile phone-enabled services: The case of M-farm in Kenya, In: Horbach, M. (Hrsg.), INFORMATIK 2013 – Informatik angepasst an Mensch, Organisation und Umwelt, Bonn: Gesellschaft für Informatik e.V.. (S. 1730-1738) Baumüller, H., 2017, Assessing the Role of Mobile Phones in Offering Price Information and Market Linkages: The Case of M?Farm in Kenya , EJISDC, Volume 68 , Issue 1, Pages 1-16 Wyche, S. and Steinfield, C., 2015, Why don’t farmers use cell phones to access market prices? Technology affordances and barriers to market information services adoption in rural Kenya Solon, Olivia. 2013. “MFarm Empowers Kenya’s Farmers with Price Transparency and Market Access.” Wired, June 21, 2013. https://www.wired.com/story/mfarm/ “Goal 2.” n.d. Sdgs.Un.Org. Accessed May 28, 2024. https://sdgs.un.org/goals/goal2 “Real-Time Stock Price for African Farmers: Kenya’s M-Farm Is a Case Study in Connected Agriculture.” 2013. Innovation Is Everywhere. December 3, 2013. https://innovationiseverywhere.com/real-time-stock-price-african-farmers-case-study-connected-agriculture-m-farm-kenya/ Compliance with regulations N/A Evaluation methods Unknown Leave a Reply You must be logged in to post a comment. All Solutions Explore similar solutions Agriculture December 29, 2023 SeaChar Deluxe Estufa Finca Farm Stove Read Solution Implemented by SeaChar Agriculture June 23, 2024 AgRover Read Solution Implemented by MAPS (Mobile Agricultural Power Solutions) Agriculture February 3, 2024 Barrix Catch Vegetable Fly Trap Read Solution Implemented by Barrix Agriculture August 21, 2024 Claphijo Enterprises Solar Dryer Read Solution Implemented by Claphijo Enterprises Agriculture August 29, 2024 Futurepump SF1 Solar Pump Read Solution Implemented by Futurepump Ltd. Agriculture January 19, 2024 Groasis Waterboxx Read Solution Implemented by ICU/Desert Tulip/Groasis Agriculture January 22, 2024 Proximity Designs Drip Irrigation System Read Solution Implemented by Proximity Designs Agriculture February 1, 2024 Coco Jack Read Solution Implemented by Coco Jack Agriculture September 12, 2024 KSNM Cono Weeder Read Solution Implemented by KSNM Agriculture January 6, 2025 Agribotix FarmLens Read Solution Implemented by Agribotix Contribute to E4C's Library of Breakthrough Sustainable Development Technology Solutions Suggest A Solution Get more information about Solutions Library and its features. Learn More Have thoughts on how we can improve? Give Us Feedback Join a global community of changemakers. Become A Member Join our newsletter to stay up to date on news, insights, and opportunities. Email Name This field is for validation purposes and should be left unchanged. Subscribe Δ By subscribing you agree to with our Privacy Policy and provide consent to receive updates from our company. Contact Us About Us Impact Fellowship E4C Solutions Library Community Opportunities Challenges News and Insights Fund Us Impact Projects Advisory Services © 2026 Engineering For Change All Rights Reserved. Home News and Insights Privacy Policy Terms of Use"
+  },
+  "attribution": {
+    "developed_by": [],
+    "tested_by": [],
+    "content_partners": []
+  },
+  "snapshot": {
+    "competitive_landscape": "Direct competitors include",
+    "Product Description": "M-Farm is a tool designed to deliver updated price information, it also allows for collective crop selling, and collective input buying. The service works through the website or SMS inquiries. While the app is still downloadable, the platform has not been updated since 2019.",
+    "Leave a Reply": "You must be logged in to post a comment."
+  },
+  "manufacturing_delivery": {},
+  "performance_use": {},
+  "research_standards": {
+    "academic_references": "Ogotu, S. and others, 2014,"
+  },
+  "feedback": {},
+  "similar_solutions": [
+    "https://www.engineeringforchange.org/solutions/product/agribotix-farmlens/",
+    "https://www.engineeringforchange.org/solutions/product/agrover/",
+    "https://www.engineeringforchange.org/solutions/product/akorion-ezyagric-app/",
+    "https://www.engineeringforchange.org/solutions/product/barrix-catch-vegetable-fly-trap/",
+    "https://www.engineeringforchange.org/solutions/product/claphijo-enterprises-solar-dryer/",
+    "https://www.engineeringforchange.org/solutions/product/coco-jack/",
+    "https://www.engineeringforchange.org/solutions/product/esoko/",
+    "https://www.engineeringforchange.org/solutions/product/futurepump-sf1-solar-pump/",
+    "https://www.engineeringforchange.org/solutions/product/groasis-waterboxx/",
+    "https://www.engineeringforchange.org/solutions/product/ksnm-cono-weeder/"
+  ],
+  "scraped_at": "2026-04-03T06:56:57Z"
+}

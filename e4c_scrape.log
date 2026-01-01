@@ -1,0 +1,243 @@
+2026-04-03 13:44:11,561 [INFO] Starting link discovery...
+2026-04-03 13:44:11,561 [INFO]   Listing page 1: https://www.engineeringforchange.org/solutions-library/?current_page=1
+2026-04-03 13:44:12,029 [INFO]   +3 new links (total: 3)
+2026-04-03 13:44:12,035 [INFO]   No next-page link after page 1.
+2026-04-03 13:44:12,035 [INFO] Discovery complete: 3 unique product URLs.
+2026-04-03 13:44:12,036 [INFO] Saved 3 links to e4c_product_links.json
+2026-04-03 13:44:12,036 [INFO] Scraping 3 products (3 threads)...
+2026-04-03 13:44:14,316 [INFO] Done. 3 ok, 0 failed.
+2026-04-03 13:44:14,316 [INFO] Merging -> e4c_solutions_all.json
+2026-04-03 13:49:51,521 [INFO] Loaded 3 cached links from e4c_product_links.json
+2026-04-03 13:49:51,522 [INFO] Scraping 3 products (3 threads)...
+2026-04-03 13:49:51,524 [INFO] Done. 3 ok, 0 failed.
+2026-04-03 13:49:51,524 [INFO] Merging -> e4c_solutions_all.json
+2026-04-03 13:49:59,385 [INFO] Loaded 3 cached links from e4c_product_links.json
+2026-04-03 13:49:59,385 [INFO] Scraping 3 products (3 threads)...
+2026-04-03 13:49:59,387 [INFO] Done. 3 ok, 0 failed.
+2026-04-03 13:49:59,387 [INFO] Merging -> e4c_solutions_all.json
+2026-04-03 13:50:07,405 [INFO] Loaded 3 cached links from e4c_product_links.json
+2026-04-03 13:50:07,406 [INFO] Scraping 3 products (3 threads)...
+2026-04-03 13:50:07,407 [INFO] Done. 3 ok, 0 failed.
+2026-04-03 13:50:07,407 [INFO] Merging -> e4c_solutions_all.json
+2026-04-03 13:50:17,771 [INFO] Trying sitemap: https://www.engineeringforchange.org/wp-sitemap.xml
+2026-04-03 13:50:25,058 [INFO] Trying sitemap: https://www.engineeringforchange.org/sitemap.xml
+2026-04-03 13:50:25,844 [INFO] Trying sitemap: https://www.engineeringforchange.org/sitemap_index.xml
+2026-04-03 13:50:28,177 [INFO] BFS crawl starting with 8 seeds...
+2026-04-03 13:50:28,259 [INFO]   BFS [1] lifestraw-family-1-0 -> +20 new | queue=27 | total=1
+2026-04-03 13:50:30,072 [INFO]   BFS [2] mwater-explorer-mobile-app -> +7 new | queue=33 | total=2
+2026-04-03 13:50:31,532 [INFO]   BFS [3] safi-water-filters -> +12 new | queue=44 | total=3
+2026-04-03 13:50:33,083 [INFO]   BFS [4] wefarm -> +11 new | queue=54 | total=4
+2026-04-03 13:50:34,335 [INFO]   BFS [5] iz-southern-cross-windmill -> +10 new | queue=63 | total=5
+2026-04-03 13:50:36,429 [WARNING] Attempt 1/3 failed [https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/]: 404 Client Error: Not Found for url: https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-03 13:50:42,551 [WARNING] Attempt 2/3 failed [https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/]: 404 Client Error: Not Found for url: https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-03 13:50:54,599 [WARNING] Attempt 3/3 failed [https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/]: 404 Client Error: Not Found for url: https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-03 13:50:54,599 [ERROR] All retries exhausted: https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-03 13:50:54,868 [INFO]   BFS [7] kio-kit -> +8 new | queue=69 | total=7
+2026-04-03 13:50:56,121 [INFO]   BFS [8] splash-stations -> +6 new | queue=74 | total=8
+2026-04-03 13:50:57,592 [INFO]   BFS [9] colempaques-ceramic-candle-filter -> +9 new | queue=82 | total=9
+2026-04-03 13:50:58,853 [INFO]   BFS [10] lifesaver-cube -> +8 new | queue=89 | total=10
+2026-04-03 13:51:00,116 [INFO]   BFS [11] vf-100-village-bucket-filter -> +8 new | queue=96 | total=11
+2026-04-03 13:51:01,577 [INFO]   BFS [12] wateroam-roamfilter-plus -> +3 new | queue=98 | total=12
+2026-04-03 13:51:03,036 [INFO]   BFS [13] lifewell-water-filter -> +9 new | queue=106 | total=13
+2026-04-03 13:51:04,297 [INFO]   BFS [14] aci-household-filter-2 -> +2 new | queue=107 | total=14
+2026-04-03 13:51:05,571 [INFO]   BFS [15] lifesaver-jerrycan-20000uf -> +7 new | queue=113 | total=15
+2026-04-03 13:51:06,985 [INFO]   BFS [16] wateroam-roamfilter-lite -> +3 new | queue=115 | total=16
+2026-04-03 13:51:08,457 [INFO]   BFS [17] aquafilter-family -> +3 new | queue=117 | total=17
+2026-04-03 13:51:09,950 [INFO]   BFS [18] tata-swach-cristella-plus-water-purifier -> +3 new | queue=119 | total=18
+2026-04-03 13:51:11,196 [INFO]   BFS [19] lifestraw-family-2-0 -> +2 new | queue=120 | total=19
+2026-04-03 13:51:12,746 [INFO]   BFS [20] eawag-system -> +0 new | queue=119 | total=20
+2026-04-03 13:51:14,000 [INFO]   BFS [21] lifestraw-community -> +4 new | queue=122 | total=21
+2026-04-03 13:51:15,261 [INFO]   BFS [22] grifaid-family-filter -> +0 new | queue=121 | total=22
+2026-04-03 13:51:16,823 [INFO]   BFS [23] nrs-relief-viva-family-tent -> +3 new | queue=123 | total=23
+2026-04-03 13:51:18,288 [INFO]   BFS [24] world-housing-encyclopedia-single-family-reinforced-concrete-frame-houses -> +9 new | queue=131 | total=24
+2026-04-03 13:51:19,867 [INFO]   BFS [25] unhcr-family-tent -> +0 new | queue=130 | total=25
+2026-04-03 13:51:21,376 [INFO]   BFS [26] caminos-de-agua-ceramic-filters -> +4 new | queue=133 | total=26
+2026-04-03 13:51:22,842 [INFO]   BFS [27] compartment-bag-test-cbt-i-kit -> +7 new | queue=139 | total=27
+2026-04-03 13:51:24,385 [INFO]   BFS [28] pointone-filter -> +0 new | queue=138 | total=28
+2026-04-03 13:51:25,695 [INFO]   BFS [29] mwater-field-test-kit -> +3 new | queue=140 | total=29
+2026-04-03 13:51:27,167 [INFO]   BFS [30] referral-app-vula-mobile -> +6 new | queue=145 | total=30
+2026-04-03 13:51:28,431 [INFO]   BFS [31] akorion-ezyagric-app -> +4 new | queue=148 | total=31
+2026-04-03 13:51:29,911 [INFO]   BFS [32] rainforest-alliance-farmer-training-app -> +5 new | queue=152 | total=32
+2026-04-03 13:51:32,288 [INFO]   BFS [33] greencast-turf-app -> +0 new | queue=151 | total=33
+2026-04-03 13:51:34,847 [INFO]   BFS [34] idream-learning-app -> +5 new | queue=155 | total=34
+2026-04-03 13:51:36,242 [INFO]   BFS [35] oxfam-delagua-single-incubator-water-testing-kit -> +6 new | queue=160 | total=35
+2026-04-03 13:51:37,810 [INFO]   BFS [36] kohler-clarity-water-filter -> +1 new | queue=160 | total=36
+2026-04-03 13:51:39,320 [INFO]   BFS [37] rainfresh-mp4u-gravity-filter -> +5 new | queue=164 | total=37
+2026-04-03 13:51:40,626 [INFO]   BFS [38] tulip-table-top-filter -> +1 new | queue=164 | total=38
+2026-04-03 13:51:41,996 [INFO]   BFS [39] jal-tara-water-filters -> +2 new | queue=165 | total=39
+2026-04-03 13:51:43,518 [INFO]   BFS [40] safi-sarvi -> +9 new | queue=173 | total=40
+2026-04-03 13:51:45,012 [INFO]   BFS [41] dhan-biosand-filters -> +2 new | queue=174 | total=41
+2026-04-03 13:51:46,526 [INFO]   BFS [42] aqusafe-filters -> +4 new | queue=177 | total=42
+2026-04-03 13:51:47,993 [INFO]   BFS [43] berkey-ceramic-filters -> +0 new | queue=176 | total=43
+2026-04-03 13:51:49,480 [INFO]   BFS [44] wall-mounted-water-atm -> +3 new | queue=178 | total=44
+2026-04-03 13:51:51,147 [INFO]   BFS [45] evenflow-water-saver-tap -> +4 new | queue=181 | total=45
+2026-04-03 13:51:52,643 [INFO]   BFS [46] janajal-safe-water-atm -> +7 new | queue=187 | total=46
+2026-04-03 13:51:54,127 [INFO]   BFS [47] water-dispensation-unit-wdu -> +3 new | queue=189 | total=47
+2026-04-03 13:51:55,617 [INFO]   BFS [48] plantvillage -> +0 new | queue=188 | total=48
+2026-04-03 13:51:57,157 [INFO]   BFS [49] icow -> +8 new | queue=195 | total=49
+2026-04-03 13:51:59,700 [INFO]   BFS [50] cti-ewing-grinder -> +11 new | queue=205 | total=50
+2026-04-03 13:52:01,179 [INFO]   BFS [51] d-lab-corn-shellers -> +8 new | queue=212 | total=51
+2026-04-03 13:52:03,685 [INFO]   BFS [52] driptech-micro-irrigation-kit -> +7 new | queue=218 | total=52
+2026-04-03 13:52:05,562 [INFO]   BFS [53] solar-conduction-dryer -> +11 new | queue=228 | total=53
+2026-04-03 13:52:06,871 [INFO]   BFS [54] zerofly-storage-bag -> +4 new | queue=231 | total=54
+2026-04-03 13:52:08,560 [INFO]   BFS [55] myagro -> +7 new | queue=237 | total=55
+2026-04-03 13:52:10,063 [INFO]   BFS [56] ksnm-rain-hose -> +2 new | queue=238 | total=56
+2026-04-03 13:52:11,330 [INFO]   BFS [57] pix4dfields -> +5 new | queue=242 | total=57
+2026-04-03 13:52:13,852 [INFO]   BFS [58] bioguaviare -> +1 new | queue=242 | total=58
+2026-04-03 13:52:15,677 [INFO]   BFS [59] kijito-2008-windpump -> +0 new | queue=241 | total=59
+2026-04-03 13:52:17,421 [INFO]   BFS [60] grundfos-aqtap -> +3 new | queue=243 | total=60
+2026-04-03 13:52:18,952 [INFO]   BFS [61] sds-t-128-submersible-solar-pump -> +6 new | queue=248 | total=61
+2026-04-03 13:52:20,429 [INFO]   BFS [62] solar-safe-water-system -> +0 new | queue=247 | total=62
+2026-04-03 13:52:21,969 [INFO]   BFS [63] solray -> +2 new | queue=248 | total=63
+2026-04-03 13:52:23,525 [INFO]   BFS [64] sunspring-hybrid -> +4 new | queue=251 | total=64
+2026-04-03 13:52:24,999 [INFO]   BFS [65] jiko-raha -> +3 new | queue=253 | total=65
+2026-04-03 13:52:26,273 [INFO]   BFS [66] spectra-aquifer-360 -> +2 new | queue=254 | total=66
+2026-04-03 13:52:27,741 [INFO]   BFS [67] bluebox-ro-ds -> +2 new | queue=255 | total=67
+2026-04-03 13:52:29,452 [INFO]   BFS [68] calwave-hydronode -> +2 new | queue=256 | total=68
+2026-04-03 13:52:30,942 [INFO]   BFS [69] biolite-blxl-solar-kit -> +9 new | queue=264 | total=69
+2026-04-03 13:52:32,426 [INFO]   BFS [70] easynat-tb-cpa-diagnostic-kit -> +7 new | queue=270 | total=70
+2026-04-03 13:52:33,936 [INFO]   BFS [71] readypay-10w-home-starter-kit -> +8 new | queue=277 | total=71
+2026-04-03 13:52:35,221 [INFO]   BFS [72] rural-spark-energy-kit -> +4 new | queue=280 | total=72
+2026-04-03 13:52:36,726 [INFO]   BFS [73] sunculture-drip-irrigation-kit -> +2 new | queue=281 | total=73
+2026-04-03 13:52:38,219 [INFO]   BFS [74] mnyunyizi-drip-irrigation-kit -> +1 new | queue=281 | total=74
+2026-04-03 13:52:39,531 [INFO]   BFS [75] amitoje-anti-covid-kit -> +2 new | queue=282 | total=75
+2026-04-03 13:52:42,093 [INFO]   BFS [76] isla-urbana-tlaloc-kit -> +0 new | queue=281 | total=76
+2026-04-03 13:52:43,588 [INFO]   BFS [77] envirosan-2l-handwashing-unit -> +5 new | queue=285 | total=77
+2026-04-03 13:52:45,096 [INFO]   BFS [78] tippytap -> +5 new | queue=289 | total=78
+2026-04-03 13:52:46,745 [INFO]   BFS [79] solar-agro-processing-power-stations -> +9 new | queue=297 | total=79
+2026-04-03 13:52:48,237 [INFO]   BFS [80] solarbag -> +0 new | queue=296 | total=80
+2026-04-03 13:52:49,713 [INFO]   BFS [81] issf-intermittently-operated-slow-sand-filtration-system -> +2 new | queue=297 | total=81
+2026-04-03 13:52:51,189 [INFO]   BFS [82] the-waterhub -> +13 new | queue=309 | total=82
+2026-04-03 13:52:52,719 [INFO]   BFS [83] agualogic-water-filter -> +0 new | queue=308 | total=83
+2026-04-03 13:52:53,989 [INFO]   BFS [84] ekofil-filter -> +0 new | queue=307 | total=84
+2026-04-03 13:52:55,512 [INFO]   BFS [85] ecofiltro -> +4 new | queue=310 | total=85
+2026-04-03 13:52:56,779 [INFO]   BFS [86] stefani-filtro-flex -> +3 new | queue=312 | total=86
+2026-04-03 13:52:58,256 [INFO]   BFS [87] arcifiltro -> +4 new | queue=315 | total=87
+2026-04-03 13:52:59,745 [INFO]   BFS [88] ceramic-filter-utp -> +0 new | queue=314 | total=88
+2026-04-03 13:53:01,215 [INFO]   BFS [89] tunsai-rabbit-ceramic-water-purifier -> +0 new | queue=313 | total=89
+2026-04-03 13:53:02,469 [INFO]   BFS [90] kenyan-domestic-ceramic-jiko-stove -> +7 new | queue=319 | total=90
+2026-04-03 13:53:03,741 [INFO]   BFS [91] hydraid-biosand-filter -> +0 new | queue=318 | total=91
+2026-04-03 13:53:05,224 [INFO]   BFS [92] tata-swach-smart -> +11 new | queue=328 | total=92
+2026-04-03 13:53:06,548 [INFO]   BFS [93] #comment-37627 -> +0 new | queue=327 | total=93
+2026-04-03 13:53:07,795 [INFO]   BFS [94] #comment-37629 -> +0 new | queue=326 | total=94
+2026-04-03 13:53:09,267 [INFO]   BFS [95] o2-cube -> +6 new | queue=331 | total=95
+2026-04-03 13:53:10,742 [INFO]   BFS [96] life-cube -> +3 new | queue=333 | total=96
+2026-04-03 13:53:12,237 [INFO]   BFS [97] ceramaji -> +0 new | queue=332 | total=97
+2026-04-03 13:53:13,585 [INFO]   BFS [98] dayone-waterbag -> +3 new | queue=334 | total=98
+2026-04-03 13:53:16,080 [INFO]   BFS [99] klorfasil -> +1 new | queue=334 | total=99
+2026-04-03 13:53:17,915 [INFO]   BFS [100] waterislife-nano-bucket-filter -> +2 new | queue=335 | total=100
+2026-04-03 13:53:19,444 [INFO]   BFS [101] oxfam-bucket -> +4 new | queue=338 | total=101
+2026-04-03 13:53:21,000 [INFO]   BFS [102] pura-water-bucket -> +0 new | queue=337 | total=102
+2026-04-03 13:53:22,510 [INFO]   BFS [103] the-village-drill -> +2 new | queue=338 | total=103
+2026-04-03 13:53:23,773 [INFO]   BFS [104] nvterra-nvaqua-uf-100 -> +0 new | queue=337 | total=104
+2026-04-03 13:53:25,226 [INFO]   BFS [105] multi-100-plus -> +2 new | queue=338 | total=105
+2026-04-03 13:53:27,016 [INFO]   BFS [106] ieee-smart-village-sunblazer-ii -> +3 new | queue=340 | total=106
+2026-04-03 13:53:28,500 [INFO]   BFS [107] wowsolar-100 -> +7 new | queue=346 | total=107
+2026-04-03 13:53:29,832 [INFO]   BFS [108] wateroam-roamfilter-ultra-system -> +3 new | queue=348 | total=108
+2026-04-03 13:53:31,357 [INFO]   BFS [109] pro-x-plus -> +7 new | queue=354 | total=109
+2026-04-03 13:53:33,198 [INFO]   BFS [110] sunsaluter -> +0 new | queue=353 | total=110
+2026-04-03 13:53:35,469 [INFO]   BFS [111] sawyer-point-zerotwo-water-purifier -> +0 new | queue=352 | total=111
+2026-04-03 13:53:37,477 [INFO]   BFS [112] tapp-filter -> +1 new | queue=352 | total=112
+2026-04-03 13:53:38,839 [INFO]   BFS [113] #comment-37349 -> +0 new | queue=351 | total=113
+2026-04-03 13:53:40,312 [INFO]   BFS [114] gift-water-filter -> +0 new | queue=350 | total=114
+2026-04-03 13:53:41,789 [INFO]   BFS [115] uz-xl-large-capacity-water-filter -> +0 new | queue=349 | total=115
+2026-04-03 13:53:43,088 [INFO]   BFS [116] uz-1-household-water-filter -> +0 new | queue=348 | total=116
+2026-04-03 13:53:44,643 [INFO]   BFS [117] nazava-transparent-1-water-filter -> +0 new | queue=347 | total=117
+2026-04-03 13:53:45,901 [INFO]   BFS [118] rainfresh-p2s-siphon-water-filter -> +1 new | queue=347 | total=118
+2026-04-03 13:53:47,490 [INFO]   BFS [119] yakupura-carbon-filter -> +2 new | queue=348 | total=119
+2026-04-03 13:53:49,001 [INFO]   BFS [120] british-berkefeld-household-filter-kit -> +0 new | queue=347 | total=120
+2026-04-03 13:53:50,482 [INFO]   BFS [121] folia-filter -> +0 new | queue=346 | total=121
+2026-04-03 13:53:52,123 [INFO]   BFS [122] aguapallet -> +3 new | queue=348 | total=122
+2026-04-03 13:53:53,785 [INFO]   BFS [123] aquatainer-10l-collapsible -> +6 new | queue=353 | total=123
+2026-04-03 13:53:55,298 [INFO]   BFS [124] electrochemical-arsenic-remediation-ecar -> +0 new | queue=352 | total=124
+2026-04-03 13:53:56,772 [INFO]   BFS [125] m-drop -> +1 new | queue=352 | total=125
+2026-04-03 13:53:58,285 [INFO]   BFS [126] msr-se200-community-chlorine-maker -> +2 new | queue=353 | total=126
+2026-04-03 13:53:59,755 [INFO]   BFS [127] wtc-500-ro-system -> +0 new | queue=352 | total=127
+2026-04-03 13:54:01,025 [INFO]   BFS [128] pure-hydration-thirst-aid-station -> +6 new | queue=357 | total=128
+2026-04-03 13:54:02,589 [INFO]   BFS [129] sawyer-pointone-10-filter -> +0 new | queue=356 | total=129
+2026-04-03 13:54:03,857 [INFO]   BFS [130] #comment-37289 -> +0 new | queue=355 | total=130
+2026-04-03 13:54:06,510 [INFO]   BFS [131] vein-locator -> +4 new | queue=358 | total=131
+2026-04-03 13:54:09,052 [INFO]   BFS [132] cycloclean -> +0 new | queue=357 | total=132
+2026-04-03 13:54:10,555 [INFO]   BFS [133] cti-water-chlorinator -> +4 new | queue=360 | total=133
+2026-04-03 13:54:12,068 [INFO]   BFS [134] gravitypure-uf -> +0 new | queue=359 | total=134
+2026-04-03 13:54:13,552 [INFO]   BFS [135] pg-purifier-of-water -> +6 new | queue=364 | total=135
+2026-04-03 13:54:14,861 [INFO]   BFS [136] naiade-mobile-solar-water-purifier -> +0 new | queue=363 | total=136
+2026-04-03 13:54:16,358 [INFO]   BFS [137] h2go-purifier -> +0 new | queue=362 | total=137
+2026-04-03 13:54:17,613 [INFO]   BFS [138] #comment-38230 -> +0 new | queue=361 | total=138
+2026-04-03 13:54:18,873 [INFO]   BFS [139] #comment-38231 -> +0 new | queue=360 | total=139
+2026-04-03 13:54:20,146 [INFO]   BFS [140] waterbackpack-paul -> +1 new | queue=360 | total=140
+2026-04-03 13:54:22,628 [INFO]   BFS [141] grifaid-community-filter -> +0 new | queue=359 | total=141
+2026-04-03 13:54:24,629 [INFO]   BFS [142] towards-safer-school-construction-community-based-approach -> +7 new | queue=365 | total=142
+2026-04-03 13:54:26,824 [INFO]   BFS [143] ape-jaldoot -> +2 new | queue=366 | total=143
+2026-04-03 13:54:28,509 [INFO]   BFS [144] nrs-relief-rex-hall-mobile-storage-units -> +2 new | queue=367 | total=144
+2026-04-03 13:54:31,853 [INFO]   BFS [145] viva-thermal-sleeping-mat -> +6 new | queue=372 | total=145
+2026-04-03 13:54:34,733 [INFO]   BFS [146] real-relief-safepad -> +5 new | queue=376 | total=146
+2026-04-03 13:54:36,396 [INFO]   BFS [147] unicefunhcr-plastic-tarpaulin -> +2 new | queue=377 | total=147
+2026-04-03 13:54:38,389 [INFO]   BFS [148] sandbag-houses -> +0 new | queue=376 | total=148
+2026-04-03 13:54:39,774 [INFO]   BFS [149] modular-houses -> +3 new | queue=378 | total=149
+2026-04-03 13:54:41,124 [INFO]   BFS [150] hypar-thin-shell-concrete-roof -> +7 new | queue=384 | total=150
+2026-04-03 13:54:42,617 [INFO]   BFS [151] precast-concrete-beams-and-slabs -> +5 new | queue=388 | total=151
+2026-04-03 13:54:45,202 [INFO]   BFS [152] lazarian-polystyrene-insulated-concrete-forms-2 -> +4 new | queue=391 | total=152
+2026-04-03 13:54:46,742 [INFO]   BFS [153] micro-concrete-roofing-tiles -> +1 new | queue=391 | total=153
+2026-04-03 13:54:48,200 [INFO]   BFS [154] iketsetse-single-stroke-maize-sheller -> +3 new | queue=393 | total=154
+2026-04-03 13:54:49,675 [INFO]   BFS [155] prakti-single-burner-wood-stove -> +6 new | queue=398 | total=155
+2026-04-03 13:54:51,155 [INFO]   BFS [156] ct-filtron -> +0 new | queue=397 | total=156
+2026-04-03 13:54:52,617 [INFO]   BFS [157] bici-bomba-rosario-de-agua -> +2 new | queue=398 | total=157
+2026-04-03 13:54:53,875 [INFO]   BFS [158] caminos-de-la-villa -> +7 new | queue=404 | total=158
+2026-04-03 13:54:55,118 [INFO]   BFS [159] nucleario -> +2 new | queue=405 | total=159
+2026-04-03 13:54:56,587 [INFO]   BFS [160] hach-drinking-water-test-kit -> +1 new | queue=405 | total=160
+2026-04-03 13:54:58,071 [INFO]   BFS [161] laerdal-upright-newborn-bag-mask -> +8 new | queue=412 | total=161
+2026-04-03 13:55:00,645 [INFO]   BFS [162] teheca-prepared-mama-bag -> +0 new | queue=411 | total=162
+2026-04-03 13:55:03,084 [INFO]   BFS [163] dutch-latrine-bag -> +2 new | queue=412 | total=163
+2026-04-03 13:55:04,572 [INFO]   BFS [164] earthen-bag -> +5 new | queue=416 | total=164
+2026-04-03 13:55:05,842 [INFO]   BFS [165] ntu-singapore-water-test -> +2 new | queue=417 | total=165
+2026-04-03 13:55:07,382 [INFO]   BFS [166] isla-urbana-chaac-kit -> +0 new | queue=416 | total=166
+2026-04-03 13:55:08,839 [INFO]   BFS [167] 3m-petri%ef%ac%81lm-aqua-coliform-count-plates -> +0 new | queue=415 | total=167
+2026-04-03 13:55:10,287 [INFO]   BFS [168] low-field-mri-scanner -> +4 new | queue=418 | total=168
+2026-04-03 13:55:11,956 [INFO]   BFS [169] palintest-pooltester-kit -> +0 new | queue=417 | total=169
+2026-04-03 13:55:13,680 [INFO]   BFS [170] clickmedix -> +7 new | queue=423 | total=170
+2026-04-03 13:55:15,179 [INFO]   BFS [171] medic-mobile -> +3 new | queue=425 | total=171
+2026-04-03 13:55:16,436 [INFO]   BFS [172] mobile-obstetrics-monitoring-mom -> +2 new | queue=426 | total=172
+2026-04-03 13:55:17,690 [INFO]   BFS [173] off-road-mobile-clinic -> +4 new | queue=429 | total=173
+2026-04-03 13:55:19,172 [INFO]   BFS [174] girl-effect-mobile -> +1 new | queue=429 | total=174
+2026-04-03 13:55:20,657 [INFO]   BFS [175] mobile-general-medicine-clinic -> +0 new | queue=428 | total=175
+2026-04-03 13:55:22,474 [INFO]   BFS [176] m-farm -> +4 new | queue=431 | total=176
+2026-04-03 13:55:23,750 [INFO]   BFS [177] 6th-grain -> +3 new | queue=433 | total=177
+2026-04-03 13:55:25,005 [INFO]   BFS [178] esoko -> +3 new | queue=435 | total=178
+2026-04-03 13:55:26,252 [INFO]   BFS [179] futurepump-sf2 -> +5 new | queue=439 | total=179
+2026-04-03 13:55:27,720 [INFO]   BFS [180] rml-farmer-krishi-mitr -> +7 new | queue=445 | total=180
+2026-04-03 13:55:29,361 [INFO]   BFS [181] rainforest-connection -> +7 new | queue=451 | total=181
+2026-04-03 13:55:30,626 [INFO]   BFS [182] futurepump-sf1-solar-pump -> +0 new | queue=450 | total=182
+2026-04-03 13:55:32,101 [INFO]   BFS [183] proximity-designs-drip-irrigation-system -> +0 new | queue=449 | total=183
+2026-04-03 13:55:33,613 [INFO]   BFS [184] agribotix-farmlens -> +2 new | queue=450 | total=184
+2026-04-03 13:55:35,094 [INFO]   BFS [185] open-learning-exchange-ole -> +4 new | queue=453 | total=185
+2026-04-03 13:55:36,573 [INFO]   BFS [186] edutrac -> +4 new | queue=456 | total=186
+2026-04-03 13:55:39,463 [INFO]   BFS [187] m-lugha -> +3 new | queue=458 | total=187
+2026-04-03 13:55:40,791 [INFO]   BFS [188] tablab -> +2 new | queue=459 | total=188
+2026-04-03 13:55:43,400 [INFO]   BFS [189] hadithi-hadithi -> +0 new | queue=458 | total=189
+2026-04-03 13:55:44,892 [INFO]   BFS [190] body-belt-incubator -> +1 new | queue=458 | total=190
+2026-04-03 13:55:46,378 [INFO]   BFS [191] aquatest-incubator -> +2 new | queue=459 | total=191
+2026-04-03 13:55:47,648 [INFO]   BFS [192] globalneonat-infant-incubator -> +1 new | queue=459 | total=192
+2026-04-03 13:55:49,114 [INFO]   BFS [193] mom-incubator -> +0 new | queue=458 | total=193
+2026-04-03 13:55:50,614 [INFO]   BFS [194] incubaby-neonatal-incubator -> +1 new | queue=458 | total=194
+2026-04-03 13:55:52,105 [INFO]   BFS [195] e48-egg-incubator -> +0 new | queue=457 | total=195
+2026-04-03 13:55:53,774 [INFO]   BFS [196] #comment-37626 -> +0 new | queue=456 | total=196
+2026-04-03 13:55:55,299 [INFO]   BFS [197] purifaaya -> +7 new | queue=462 | total=197
+2026-04-03 13:55:56,704 [INFO]   BFS [198] gravity-water -> +1 new | queue=462 | total=198
+2026-04-03 13:55:58,171 [INFO]   BFS [199] electronically-controlled-gravity-feed-ecgf-infusion-set -> +1 new | queue=462 | total=199
+2026-04-03 13:55:59,650 [INFO]   BFS [200] bushproof-biosand-filter -> +0 new | queue=461 | total=200
+2026-04-03 13:56:00,851 [INFO] Discovery complete: 200 unique product URLs.
+2026-04-03 13:56:00,853 [INFO] Saved 200 links to e4c_product_links.json
+2026-04-03 13:56:00,853 [INFO] Scraping 200 products (3 threads)...
+2026-04-03 13:56:26,429 [INFO] Progress: 50/200 | errors so far: 0
+2026-04-03 13:56:41,618 [WARNING] Attempt 1/3 failed [https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/]: 404 Client Error: Not Found for url: https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-03 13:56:47,670 [WARNING] Attempt 2/3 failed [https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/]: 404 Client Error: Not Found for url: https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-03 13:56:54,166 [INFO] Progress: 100/200 | errors so far: 0
+2026-04-03 13:56:59,881 [WARNING] Attempt 3/3 failed [https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/]: 404 Client Error: Not Found for url: https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-03 13:56:59,881 [ERROR] All retries exhausted: https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-03 13:56:59,882 [WARNING] FAILED (109/200): https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-03 13:57:20,035 [INFO] Progress: 150/200 | errors so far: 1
+2026-04-03 13:57:43,367 [INFO] Progress: 200/200 | errors so far: 1
+2026-04-03 13:57:43,367 [INFO] Done. 199 ok, 1 failed.
+2026-04-03 13:57:43,368 [INFO] Error list -> e4c_scrape_errors.json
+2026-04-03 13:57:43,368 [INFO] Merging -> e4c_solutions_all.json

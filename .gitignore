@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Scraper Outputs
+e4c_solutions/
+e4c_solutions_all.json
+e4c_scrape_errors.json
+e4c_product_links.json
+e4c_scrape.log
+e4c_es_bulk.ndjson
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

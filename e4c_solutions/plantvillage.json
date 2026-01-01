@@ -1,0 +1,45 @@
+{
+  "slug": "plantvillage",
+  "url": "https://www.engineeringforchange.org/solutions/product/plantvillage/",
+  "name": "PlantVillage",
+  "description": "PlantVillage is an open access library on crop health.",
+  "updated_on": "January 20, 2025",
+  "created_on": "September 22, 2016",
+  "sdgs": [
+    "SDG 2: Zero Hunger",
+    "SDG 1: No Poverty"
+  ],
+  "taxonomy": {
+    "sector": "ICT",
+    "sub_sector": "eAgriculture",
+    "category": "PlantVillage Updated on January 20, 2025 · Created on September 22, 2016 PlantVillage Open-source PlantVillage is an open access library on crop health. Developed By David Hughes Tested By Pennsylvania State University Content Partners Unknown Info Tags Open-source Snapshot Manufacturing & Delivery Performance & Use Research & Standards Feedback Product Description PlantVillage is a user moderated Q&A forum dedicated to the goal of helping people grow their own food. It is an open resource that helps farmers solve plant-related questions. PlantVillage will offer the Nuru app , a digital assistant to help farmers diagnose crop disease in the field, without an internet connection. Work in progress includes drones, mobile spectrophotometry and testing use of satellites for smallholder farmers. Target SDGs SDG 2: Zero Hunger SDG 1: No Poverty Target Users (Target Impact Group) Household Distributors / Implementing Organizations PlantVillage is a non-profit project and a collaboration between Penn State University and EPFL. Regions Sub-Saharan Africa Countries India, United States Manufacturing/Building Method N/A Intellectural Property Type Open-source User Provision Model Users can access PlantVillage directly through their website. It is free to sign-up and become a member. Nuru app can be downloaded from the Google Play Store and Apple App Store. Distributions to Date Status PlantVillage has seen over 3 million unique users since launch in 2013.Interview with representative Design Specifications PlantVillage offers agricultural advice through multiple platforms on their website. Users can upload questions and pictures directly to the forum section of their website, where other users can then respond. Additionally, PlantVillage offers a plant database of nearly 200 plants with information on physical characteristics, maintenance needed, and harvesting tips. Lastly, users can create plant journals which help them track progress over the plant's life, as well as allowing them to identify when certain problems arose. Technical Support Support is provided directly by community members on the site. Replacement Components N/A Lifecycle N/A Manufacturer Specified Performance Parameters N/A Vetted Performance Status Unknown Safety N/A Complementary Technical Systems N/A Academic Research and References Hughes, D. and Marcel S., 2015, An Open Access Repository of Images on Plant Health to Enable the Development of Mobile Disease Diagnostics . arXiv preprint arXiv:1511.08060. Hlaing, C. S. and Zaw, S.M.M., 2017, Plant Diseases Recognition for Smart Farming Using Model-Based Statistical Features , IEEE 6th Global Conference on Consumer Electronics (GCCE), pp. 1-4. Islam, M., Dinh, A., Wahid, K. and Bhowmik, P., 2017, Detection of Potato Diseases Using Image Segmentation and Multiclass Support Vector Machine , IEEE 30th Canadian Conference on Electrical and Computer Engineering (CCECE), pp. 1-4. “PlantVillage.” n.d. Psu.Edu. Accessed June 11, 2024. https://plantvillage.psu.edu/ “Goal 2.” n.d. Sdgs.Un.Org. Accessed June 11, 2024. https://sdgs.un.org/goals/goal2 “anyone involved with growing plants”. n.d. http://agsci.psu.edu/magazine/articles/2015/spring-summer/plant-village “PlantVillage.” n.d. Psu.Edu. Accessed June 11, 2024. https://plantvillage.psu.edu/posts “PlantVillage.” n.d. Google.Com. Accessed June 11, 2024. https://play.google.com/store/apps/details?id=plantvillage.nuru “?PlantVillage Nuru.” n.d. App Store. Accessed June 11, 2024. https://apps.apple.com/us/app/plantvillage-nuru/id1441395371 Compliance with regulations Unknown Evaluation methods User admissions and response rates Ratings in the app store Academic publications Other Information None Leave a Reply You must be logged in to post a comment. All Solutions Explore similar solutions Agriculture February 24, 2024 Multi-Crop Ewing Grinder Read Solution Implemented by Compatible Technology International Agriculture September 11, 2024 D-Lab Corn Sheller Read Solution Implemented by MIT D-Lab Agriculture January 19, 2024 Driptech Micro-Irrigation Kit Read Solution Implemented by Godrej Agriculture August 21, 2024 Solar Conduction Dryer Read Solution Implemented by Science for Society Agriculture June 1, 2024 WeFarm Read Solution Implemented by Cafedirect Producers’ Foundation Agriculture February 5, 2024 ZeroFly Storage Bag Read Solution Implemented by Vestergaard Agriculture August 21, 2024 KSNM Rain Hose Read Solution Implemented by KSNM Agriculture June 14, 2024 Pix4Dfields Read Solution Implemented by Parrot Agriculture August 23, 2024 Bioguaviare Read Solution Implemented by Bioguaviare Agriculture August 23, 2024 Futurepump SF2 Read Solution Implemented by Futurepump Ltd. Contribute to E4C's Library of Breakthrough Sustainable Development Technology Solutions Suggest A Solution Get more information about Solutions Library and its features. Learn More Have thoughts on how we can improve? Give Us Feedback Join a global community of changemakers. Become A Member Join our newsletter to stay up to date on news, insights, and opportunities. Email Name This field is for validation purposes and should be left unchanged. Subscribe Δ By subscribing you agree to with our Privacy Policy and provide consent to receive updates from our company. Contact Us About Us Impact Fellowship E4C Solutions Library Community Opportunities Challenges News and Insights Fund Us Impact Projects Advisory Services © 2026 Engineering For Change All Rights Reserved. Home News and Insights Privacy Policy Terms of Use"
+  },
+  "attribution": {
+    "developed_by": [],
+    "tested_by": [],
+    "content_partners": []
+  },
+  "snapshot": {
+    "Product Description": "PlantVillage is a user moderated Q&A forum dedicated to the goal of helping people grow their own food. It is an open resource that helps farmers solve plant-related questions. PlantVillage will offer the Nuru app , a digital assistant to help farmers diagnose crop disease in the field, without an internet connection. Work in progress includes drones, mobile spectrophotometry and testing use of satellites for smallholder farmers.",
+    "Leave a Reply": "You must be logged in to post a comment."
+  },
+  "manufacturing_delivery": {},
+  "performance_use": {},
+  "research_standards": {
+    "academic_references": "Hughes, D. and Marcel S., 2015,"
+  },
+  "feedback": {},
+  "similar_solutions": [
+    "https://www.engineeringforchange.org/solutions/product/bioguaviare/",
+    "https://www.engineeringforchange.org/solutions/product/cti-ewing-grinder/",
+    "https://www.engineeringforchange.org/solutions/product/d-lab-corn-shellers/",
+    "https://www.engineeringforchange.org/solutions/product/driptech-micro-irrigation-kit/",
+    "https://www.engineeringforchange.org/solutions/product/futurepump-sf2/",
+    "https://www.engineeringforchange.org/solutions/product/ksnm-rain-hose/",
+    "https://www.engineeringforchange.org/solutions/product/pix4dfields/",
+    "https://www.engineeringforchange.org/solutions/product/solar-conduction-dryer/",
+    "https://www.engineeringforchange.org/solutions/product/wefarm/",
+    "https://www.engineeringforchange.org/solutions/product/zerofly-storage-bag/"
+  ],
+  "scraped_at": "2026-04-03T06:57:12Z"
+}

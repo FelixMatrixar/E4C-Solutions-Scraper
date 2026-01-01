@@ -1,0 +1,45 @@
+{
+  "slug": "caminos-de-la-villa",
+  "url": "https://www.engineeringforchange.org/solutions/product/caminos-de-la-villa/",
+  "name": "Caminos de la Villa",
+  "description": "Caminos de la Villa is an interactive data visualization platform that allows users to follow-up and monitor urbanization processes in slums.",
+  "updated_on": "June 26, 2024",
+  "created_on": "September 16, 2020",
+  "sdgs": [
+    "SDG 10: Reduced Inequalities",
+    "SDG 11: Sustainable Cities and Communities"
+  ],
+  "taxonomy": {
+    "sector": "ICT",
+    "sub_sector": "eGovernance",
+    "category": "eGovernance",
+    "sub_category": "Caminos de la Villa Updated on June 26, 2024 · Created on September 16, 2020 Caminos de la Villa Caminos de la Villa is an interactive data visualization platform that allows users to follow-up and monitor urbanization processes in slums. Developed By ACIJ Wingu Tested By ACIJ Wingu Content Partners Unknown Info Tags Snapshot Manufacturing & Delivery Performance & Use Research & Standards Feedback Product Description Caminos de la Villa is a civic technology platform that allows users to follow-up and monitor the urbanization process carried out by the government of Argentina in the slums of Buenos Aires. Users can access detailed information, and download documents or pictures about the public works in each neighborhood. The platform also allows the citizens of those areas to report claims and add points of interest in their neighborhood. The platform was developed by Wingu in collaboration with ACIJ Target SDGs SDG 10: Reduced Inequalities SDG 11: Sustainable Cities and Communities Target Users (Target Impact Group) Household, Community, Public Sector Agencies Distributors / Implementing Organizations This product has been implemented by Wingu and ACIJ Competitive Landscape Direct competitors include SeeClickFix and FixMyStreet . Countries Argentina Manufacturing/Building Method N/A Intellectural Property Type Open-source User Provision Model Users can access Caminos de la Villa with basic internet. Developers can replicate the platform forking the GitHub repo and following the steps on the readme section. Distributions to Date Status As of 2020, the platform has reached +6.000 users in Argentina. Telecommunication service required (Y/N) Yes Level of connection service needed Basic 2G service or broadband Internet service is required to access the platform. Device(s) required Any device that has access to a browser Permanent network connectivity required (Y/N/Other) No Two way communication (Y/N) Yes Usage rate (%) 35% Literacy support (Y/N) No Languages available Spanish and English Operating system and version Any computer or smartphone with a basic browser. Power requirements (Uninterrupted power supply (UPS), ocassional power supply [minimum time required], other) None Additonal features required None Design Specifications Caminos de la Villa was developed using the following technologies: Backend: Ruby on Rails Frontend: Backbone JS Database: PostgreSQL and Redis The code of the platform is open-source and can be found on GitHub. Product Schematics Technical Support Provided by the developers. Replacement Components N/A Lifecycle N/A Manufacturer Specified Performance Parameters This product aims to reduce inequalities and improve the quality of life of the citizens that live in the marginal areas of Buenos Aires. Vetted Performance Status No testing has been completed yet. Safety No known safety hazards are related to this product. Complementary Technical Systems Users need a smartphone with internet access. Academic Research and References “Goal 10.” n.d. Sdgs.Un.Org. Accessed June 26, 2024. https://sdgs.un.org/goals/goal10 “Goal 11.” n.d. Sdgs.Un.Org. Accessed June 26, 2024. https://sdgs.un.org/goals/goal11 Caminos-Back. n.d. Accessed June 26, 2024. https://github.com/Winguweb/caminos-back “Caminos de La Villa.” n.d. Caminosdelavilla.Org. Accessed June 26, 2024. https://caminosdelavilla.org/ “Wingu – Cultura digital, impacto social.” 2022. Wingu – Cultura digital, impacto social. September 24, 2022. https://winguweb.org/ Compliance with regulations None Evaluation methods None Other Information More information about this product can be found in this video . Leave a Reply You must be logged in to post a comment. All Solutions Explore similar solutions Agriculture January 2, 2024 Separett Villa 9000 Read Solution Implemented by Separett Agriculture January 11, 2024 Caminos de Agua Ceramic filters Read Solution Implemented by Caminos de Agua Agriculture February 21, 2024 Equity in the Arts Toolkit Read Solution Implemented by Kounkuey Design Initiative Agriculture June 14, 2024 Social Tenure Domain Model Read Solution Implemented by Global Land Tool Network (GLTN) Agriculture June 26, 2024 Humanitarian Data Exchange Read Solution Implemented by OCHA Agriculture February 28, 2024 Corrugated Metal Panels Read Solution Agriculture February 29, 2024 Earthen Bag Read Solution Agriculture June 22, 2024 Lumeter PAYG Technology Read Solution Implemented by Lumeter Networks Agriculture March 7, 2024 NRG Insulated Block Read Solution Implemented by Francis Kennedy Agriculture February 1, 2024 Strauss Stima Tile Read Solution Implemented by Strauss Energy Contribute to E4C's Library of Breakthrough Sustainable Development Technology Solutions Suggest A Solution Get more information about Solutions Library and its features. Learn More Have thoughts on how we can improve? Give Us Feedback Join a global community of changemakers. Become A Member Join our newsletter to stay up to date on news, insights, and opportunities. Email Phone This field is for validation purposes and should be left unchanged. Subscribe Δ By subscribing you agree to with our Privacy Policy and provide consent to receive updates from our company. Contact Us About Us Impact Fellowship E4C Solutions Library Community Opportunities Challenges News and Insights Fund Us Impact Projects Advisory Services © 2026 Engineering For Change All Rights Reserved. Home News and Insights Privacy Policy Terms of Use"
+  },
+  "attribution": {
+    "developed_by": [],
+    "tested_by": [],
+    "content_partners": []
+  },
+  "snapshot": {
+    "competitive_landscape": "Direct competitors include",
+    "Product Description": "Caminos de la Villa is a civic technology platform that allows users to follow-up and monitor the urbanization process carried out by the government of Argentina in the slums of Buenos Aires. Users can access detailed information, and download documents or pictures about the public works in each neighborhood. The platform also allows the citizens of those areas to report claims and add points of interest in their neighborhood. The platform was developed by Wingu in collaboration with ACIJ",
+    "Leave a Reply": "You must be logged in to post a comment."
+  },
+  "manufacturing_delivery": {},
+  "performance_use": {},
+  "research_standards": {},
+  "feedback": {},
+  "similar_solutions": [
+    "https://www.engineeringforchange.org/solutions/product/caminos-de-agua-ceramic-filters/",
+    "https://www.engineeringforchange.org/solutions/product/corrugated-metal-panels/",
+    "https://www.engineeringforchange.org/solutions/product/earthen-bag/",
+    "https://www.engineeringforchange.org/solutions/product/equity-arts-toolkit/",
+    "https://www.engineeringforchange.org/solutions/product/fixmystreet/",
+    "https://www.engineeringforchange.org/solutions/product/humanitarian-data-exchange/",
+    "https://www.engineeringforchange.org/solutions/product/lumeter-payg-technology/",
+    "https://www.engineeringforchange.org/solutions/product/nrg-insulated-block/",
+    "https://www.engineeringforchange.org/solutions/product/seeclickfix/",
+    "https://www.engineeringforchange.org/solutions/product/separett-villa-9000-2/"
+  ],
+  "scraped_at": "2026-04-03T06:56:14Z"
+}

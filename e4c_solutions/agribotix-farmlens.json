@@ -1,0 +1,41 @@
+{
+  "slug": "agribotix-farmlens",
+  "url": "https://www.engineeringforchange.org/solutions/product/agribotix-farmlens/",
+  "name": "Agribotix FarmLens",
+  "description": "FarmLens is a image processing and analytic cloud-based service for monitoring crop health and supporting precision decisions in the field.",
+  "updated_on": "January 6, 2025",
+  "created_on": "October 8, 2018",
+  "sdgs": [
+    "SDG 2: Zero Hunger",
+    "SDG 1: No Poverty"
+  ],
+  "taxonomy": {},
+  "attribution": {
+    "developed_by": [],
+    "tested_by": [],
+    "content_partners": []
+  },
+  "snapshot": {
+    "Product Description": "FarmLens is a image processing and analytic cloud-based service for monitoring crop health and supporting precision decisions in the field.",
+    "Leave a Reply": "You must be logged in to post a comment."
+  },
+  "manufacturing_delivery": {},
+  "performance_use": {},
+  "research_standards": {
+    "other_information": "Agricultural Drones: what farmers need to know."
+  },
+  "feedback": {},
+  "similar_solutions": [
+    "https://www.engineeringforchange.org/solutions/product/akorion-ezyagric-app/",
+    "https://www.engineeringforchange.org/solutions/product/bhungroo/",
+    "https://www.engineeringforchange.org/solutions/product/easydry-m500-maize-dryer/",
+    "https://www.engineeringforchange.org/solutions/product/evaporative-cooling-chambers/",
+    "https://www.engineeringforchange.org/solutions/product/fopo-food-powder/",
+    "https://www.engineeringforchange.org/solutions/product/futurepump-sf1-solar-pump/",
+    "https://www.engineeringforchange.org/solutions/product/hydroponics-kenya-fodder-system/",
+    "https://www.engineeringforchange.org/solutions/product/microsoft-farmbeats/",
+    "https://www.engineeringforchange.org/solutions/product/proximity-designs-drip-irrigation-system/",
+    "https://www.engineeringforchange.org/solutions/product/sparky-dryer/"
+  ],
+  "scraped_at": "2026-04-03T06:56:03Z"
+}

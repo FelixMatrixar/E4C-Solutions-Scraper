@@ -1,0 +1,44 @@
+{
+  "slug": "o2-cube",
+  "url": "https://www.engineeringforchange.org/solutions/product/o2-cube/",
+  "name": "O2 Cube",
+  "description": "A solar powered, supplemental oxygen system. Courtesy of WHO Compendium 2021",
+  "updated_on": "March 8, 2024",
+  "created_on": "August 31, 2021",
+  "sdgs": [
+    "SDG 3: Good Health and Well-Being"
+  ],
+  "taxonomy": {
+    "sector": "Health",
+    "sub_sector": "Therapeutic",
+    "category": "Non-invasive ventilators",
+    "sub_category": "O2 Cube Updated on March 8, 2024 · Created on August 31, 2021 O2 Cube Upcoming Update A solar powered, supplemental oxygen system. Courtesy of WHO Compendium 2021 Developed By Lean Med Tested By Lean Med Content Partners Unknown Info Tags Upcoming Update Snapshot Manufacturing & Delivery Performance & Use Research & Standards Feedback Product Description The O2 Cube is a solar-powered oxygen concentrator and compressor that supplies oxygen for use during both pre-hospital care and patient referral to the hospital. The system uses refillable oxygen cylinders. This product was selected for inclusion in WHO’s 2021 Compendium of Innovative Health Technologies for Low‐Resource Settings . Target SDGs SDG 3: Good Health and Well-Being Market Suggested Retail Price $7,000.00 Target Users (Target Impact Group) Small and Medium-sized Enterprises, Public Sector Agencies, NGOs Distributors / Implementing Organizations Lean Med Competitive Landscape Direct competitors include PCI Deployable Oxygen Concentration Systems and Mirola Rescue FIDO . Regions Africa Manufacturing/Building Method The product is a prototype and not yet in production. It is anticipated that the system will primarily use off-the-shelf components. Intellectural Property Type Patent User Provision Model The designers have not yet selected their user provision model Distributions to Date Status None Consumables None Power supply type Solar Indispensable equipment for function Solar panel Maintenance or calibration required by user at time of use? (Y/N) No Display Type Unknown Gas Flow Range (L/min) 2.25 L/min Pressure Range (cm H2O) Unknown Patient population (specify) Pediatric patients Design Specifications The system combines the components of an oxygen concentrator, an oxygen compressor/filling station, solar panels, and pulse oximetry. It also relies on refillable oxygen cylinders. The oxygen concentrator and compressor have a sealed enclosure. A filtration system is used to protect from dust and a de-humidification system regulates the internal humidity levels. Sealed Enclosure of the SPOCC provides a sound operating environment for the oxygen concentrator and compressor. The O2 Cube fills Size \"C/M9\" oxygen cylinders at a rate of 110 min/cylinder. It is designed to supply up to 15 cylinders per week. Product Schematics Technical Support Provided by the manufacturer or a trained general technician Replacement Components Air filter Lifecycle 5-10 years Manufacturer Specified Performance Parameters To improve care by delivering supplemental oxygen to patients of rural health clinics Vetted Performance Status The manufacturers built a prototype, and testing with clinicians was planned for fall 2020. Safety Users must take appropriate precautions when using oxygen supply devices Complementary Technical Systems A stethoscope Academic Research and References None Compliance with regulations None Evaluation methods Prototype testing planned Other Information Youtube video Leave a Reply You must be logged in to post a comment. All Solutions Explore similar solutions Agriculture December 29, 2023 LifeSaver Cube Read Solution Implemented by Lifesaver Agriculture March 4, 2024 Life Cube Read Solution Agriculture January 10, 2024 DHAN Biosand Filters Read Solution Implemented by Dr. David Manz, University of Calgary Agriculture January 11, 2024 Kohler Clarity Water Filter Read Solution Implemented by Kohler Agriculture June 22, 2024 Off Road Mobile Clinic Read Solution Implemented by Mobile Clinics & Hospitals Agriculture February 5, 2024 Super Deluxe Silencer Gun Model: CRYO-004 Read Solution Implemented by BASCO India Agriculture June 20, 2024 Maya Read Solution Agriculture January 11, 2024 Berkey Ceramic Filters Read Solution Implemented by New Millennium Concepts, Ltd Agriculture June 17, 2024 Portable Network Kit (PNK) Read Solution Implemented by New America Agriculture June 2, 2024 GoldKeys Read Solution Implemented by mPedigree Contribute to E4C's Library of Breakthrough Sustainable Development Technology Solutions Suggest A Solution Get more information about Solutions Library and its features. Learn More Have thoughts on how we can improve? Give Us Feedback Join a global community of changemakers. Become A Member Join our newsletter to stay up to date on news, insights, and opportunities. Email Name This field is for validation purposes and should be left unchanged. Subscribe Δ By subscribing you agree to with our Privacy Policy and provide consent to receive updates from our company. Contact Us About Us Impact Fellowship E4C Solutions Library Community Opportunities Challenges News and Insights Fund Us Impact Projects Advisory Services © 2026 Engineering For Change All Rights Reserved. Home News and Insights Privacy Policy Terms of Use"
+  },
+  "attribution": {
+    "developed_by": [],
+    "tested_by": [],
+    "content_partners": []
+  },
+  "snapshot": {
+    "competitive_landscape": "Direct competitors include",
+    "Product Description": "The O2 Cube is a solar-powered oxygen concentrator and compressor that supplies oxygen for use during both pre-hospital care and patient referral to the hospital. The system uses refillable oxygen cylinders. This product was selected for inclusion in WHO’s 2021 Compendium of Innovative Health Technologies for Low‐Resource Settings .",
+    "Leave a Reply": "You must be logged in to post a comment."
+  },
+  "manufacturing_delivery": {},
+  "performance_use": {},
+  "research_standards": {},
+  "feedback": {},
+  "similar_solutions": [
+    "https://www.engineeringforchange.org/solutions/product/berkey-ceramic-filters/",
+    "https://www.engineeringforchange.org/solutions/product/dhan-biosand-filters/",
+    "https://www.engineeringforchange.org/solutions/product/goldkeys/",
+    "https://www.engineeringforchange.org/solutions/product/kohler-clarity-water-filter/",
+    "https://www.engineeringforchange.org/solutions/product/life-cube/",
+    "https://www.engineeringforchange.org/solutions/product/lifesaver-cube/",
+    "https://www.engineeringforchange.org/solutions/product/maya/",
+    "https://www.engineeringforchange.org/solutions/product/mirola-rescue-fido/",
+    "https://www.engineeringforchange.org/solutions/product/off-road-mobile-clinic/",
+    "https://www.engineeringforchange.org/solutions/product/pci-deployable-oxygen-concentration-systems/"
+  ],
+  "scraped_at": "2026-04-03T06:57:08Z"
+}

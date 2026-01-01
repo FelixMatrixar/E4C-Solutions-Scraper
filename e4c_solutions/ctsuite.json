@@ -1,0 +1,45 @@
+{
+  "slug": "ctsuite",
+  "url": "https://www.engineeringforchange.org/solutions/product/ctsuite/",
+  "name": "CTSuite",
+  "description": "CTSuite is a smart metering system that allows utility customers to pre-pay for water and monitor usage via a mobile app.",
+  "updated_on": "February 4, 2024",
+  "created_on": "October 26, 2022",
+  "sdgs": [
+    "SDG 6: Clean Water and Sanitation",
+    "SDG 9: Industry, Innovation and Infrastructure"
+  ],
+  "taxonomy": {
+    "sector": "Water",
+    "sub_sector": "Water supply & distribution",
+    "category": "Distribution Metering",
+    "sub_category": "CTSuite Updated on February 4, 2024 · Created on October 26, 2022 CTSuite CTSuite is a smart metering system that allows utility customers to pre-pay for water and monitor usage via a mobile app. Developed By CityTaps Tested By CityTaps Content Partners Unknown Info Tags Snapshot Manufacturing & Delivery Performance & Use Research & Standards Feedback Product Description CTSuite , manufactured and distributed by CityTaps , is a pay-as-you-go smart metering system implemented by the local utility consisting of a smart water meter called CTMeter and a CTCloud billing software. The suite allows for accurate consumption measurement and data tracking, leak, and tampering identification, and simplified purchasing of water. Customers have full visibility of their usage history and remaining credit balance via the CityTaps mobile app, and they can also use the Mobile Money app to reload funds at any time. Target SDGs SDG 6: Clean Water and Sanitation SDG 9: Industry, Innovation and Infrastructure Market Suggested Retail Price $0.23 Market Suggested Retail Price (Secondary Currency) 127 FCFA Target Users (Target Impact Group) Public Sector Agencies Distributors / Implementing Organizations CityTaps Competitive Landscape Direct competitors include JanaJal Safe Water ATM , Sarvajal Water ATM , and Grundfos AQtap . Countries Burkina Faso, Ecuador, Kenya, Namibia, Niger, Rwanda, Senegal Manufacturing/Building Method Unknown Intellectural Property Type Patent User Provision Model Users can obtain the product from utilities using the CTSuite smart metering system, for which the utilities subscribe to CityTaps. Distributions to Date Status 3,768 CTMeters distributed as of 2021. Description of system Smart Metering System Integrated treatment (yes/no) No System flow rate (L/min) Unknown Maximum number of customers served 3,768 CTMeters distributed as of 2021 Compatible water sources Urban supply water Design Specifications Utilities that use CityTaps CTSuite install weather-proof smart meter devices at the residences of paying customers. Customers can load funds or credit onto their accounts via the mobile app or USSD mobile phone services. Customers get notified when their credit is low or depleted, and they can add more funds. The software is designed to allow utilities to monitor leaks, fraud, blocked meters, and history of water consumption while also improving cash inflow balancing with expenses, increasing OPEX savings by 10-20% and making collection ratios 100% with no customer debt. Consumption data is transmitted via either radio gateways or the Internet of Things to mobile devices every 30 minutes. Installation requires no specific tools and is simple. Product Schematics Technical Support Training is provided by the manufacturer during implementation, then utilities are responsible for maintenance. Regular software updates, automatic meter readings, and data hosting are all services for which the utility subscribes from CityTaps, paid for on a per unit per month basis. Replacement Components Multi-jet water meter (R100), motor, battery Lifecycle 10 years Manufacturer Specified Performance Parameters The manufacturer designed meters to be extremely weather-resistant and can operate in direct sunlight, high temperatures, and fine dust environments. Vetted Performance Status Unknown Safety No known safety hazards are related to this product. Complementary Technical Systems None Academic Research and References L. Savaëte, G. A. Landel, and M. Phua, “Resource delivery,” 3362980:B1, 08-Jun-2022. METER READERS, “PAYGO Water Systems,” Strikinglycdn.com. https://uploads.strikinglycdn.com/files/1d7881d2-6f0b-493c-b9b7-4441b16c4669/Citytaps_Misconception_Flyer_Final_Version.pdf?id=1252561 “CityTaps – Products, Competitors, Financials, Employees, Headquarters Locations,” Cbinsights.com. https://www.cbinsights.com/company/citytaps “Citytaps – solutions for Cash collection and Non-Revenue Water,” Citytaps. https://www.citytaps.org/ Strikinglycdn.com. https://uploads.strikinglycdn.com/files/c6400cef-bb8e-424b-a2f6-c2f41845c4b3/CityTaps_Project_report_Kenya_2021_VE.pdf Compliance with regulations Unknown Evaluation methods Unknown Other Information CityTap news archive, including awards and grant announcements Leave a Reply You must be logged in to post a comment. All Solutions Explore similar solutions Agriculture September 6, 2025 Akvo Flow Read Solution Implemented by Akvo Flow Agriculture June 20, 2024 Upande WaSHMIS Read Solution Implemented by Upande Agriculture February 2, 2024 Abrimix Read Solution Implemented by ABRIMIX Agriculture February 2, 2024 Aqua-life Desalination module Read Solution Implemented by Aqua-life Agriculture August 8, 2024 Banza Toilet Read Solution Implemented by Patrick Kiruki, Banza Sanitation Agriculture January 10, 2024 BushProof Biosand Filter Read Solution Implemented by Dr. David Manz, University of Calgary Agriculture June 23, 2024 Code for America Read Solution Implemented by Code for America Agriculture August 13, 2024 Elephant Toilet Read Solution Implemented by The Africa Trust Agriculture August 14, 2024 Envirosan EazyWash 2L Handwashing Unit Read Solution Implemented by Envirosan Agriculture August 14, 2024 HappyTap Read Solution Implemented by WaterSHED Contribute to E4C's Library of Breakthrough Sustainable Development Technology Solutions Suggest A Solution Get more information about Solutions Library and its features. Learn More Have thoughts on how we can improve? Give Us Feedback Join a global community of changemakers. Become A Member Join our newsletter to stay up to date on news, insights, and opportunities. Email Phone This field is for validation purposes and should be left unchanged. Subscribe Δ By subscribing you agree to with our Privacy Policy and provide consent to receive updates from our company. Contact Us About Us Impact Fellowship E4C Solutions Library Community Opportunities Challenges News and Insights Fund Us Impact Projects Advisory Services © 2026 Engineering For Change All Rights Reserved. Home News and Insights Privacy Policy Terms of Use"
+  },
+  "attribution": {
+    "developed_by": [],
+    "tested_by": [],
+    "content_partners": []
+  },
+  "snapshot": {
+    "competitive_landscape": "Direct competitors include",
+    "Product Description": "CTSuite , manufactured and distributed by CityTaps , is a pay-as-you-go smart metering system implemented by the local utility consisting of a smart water meter called CTMeter and a CTCloud billing software. The suite allows for accurate consumption measurement and data tracking, leak, and tampering identification, and simplified purchasing of water. Customers have full visibility of their usage history and remaining credit balance via the CityTaps mobile app, and they can also use the Mobile Money app to reload funds at any time.",
+    "Leave a Reply": "You must be logged in to post a comment."
+  },
+  "manufacturing_delivery": {},
+  "performance_use": {},
+  "research_standards": {},
+  "feedback": {},
+  "similar_solutions": [
+    "https://www.engineeringforchange.org/solutions/product/abrimix/",
+    "https://www.engineeringforchange.org/solutions/product/akvo-flow/",
+    "https://www.engineeringforchange.org/solutions/product/aqua-life-desalination-module/",
+    "https://www.engineeringforchange.org/solutions/product/banza-toilet/",
+    "https://www.engineeringforchange.org/solutions/product/bushproof-biosand-filter/",
+    "https://www.engineeringforchange.org/solutions/product/code-for-america/",
+    "https://www.engineeringforchange.org/solutions/product/elephant-toilet/",
+    "https://www.engineeringforchange.org/solutions/product/envirosan-2l-handwashing-unit/",
+    "https://www.engineeringforchange.org/solutions/product/grundfos-aqtap/",
+    "https://www.engineeringforchange.org/solutions/product/happytap/"
+  ],
+  "scraped_at": "2026-04-03T06:44:14Z"
+}

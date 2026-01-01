@@ -1,0 +1,46 @@
+{
+  "slug": "incubaby-neonatal-incubator",
+  "url": "https://www.engineeringforchange.org/solutions/product/incubaby-neonatal-incubator/",
+  "name": "Incubaby Neonatal Incubator",
+  "description": "Incubaby is a low-cost incubator for hypothermic infants that can be flat-packed and is made using simple materials that reduce the cost and shipping.",
+  "updated_on": "September 27, 2024",
+  "created_on": "September 4, 2019",
+  "sdgs": [
+    "SDG 3: Good Health and Well-Being"
+  ],
+  "taxonomy": {
+    "sector": "Health",
+    "sub_sector": "Maternal & child health",
+    "category": "Neonatal thermal regulation",
+    "sub_category": "Incubaby Neonatal Incubator Updated on September 27, 2024 · Created on September 4, 2019 Incubaby Neonatal Incubator Incubaby is a low-cost incubator for hypothermic infants that can be flat-packed and is made using simple materials that reduce the cost and shipping. Developed By Rice University Tested By Incubaby Neonatal Incubator Content Partners Unknown Info Tags Snapshot Manufacturing & Delivery Performance & Use Research & Standards Feedback Product Description Incubaby is a low-cost solution to the condition of hypothermia in infants developed by a team of engineering students at Rice University. Hypothermia , a dangerous condition in which the baby’s temperature falls below 36 degrees Celsius (96.8 degrees Fahrenheit), is quite common in infants. The innovation works by increasing the core temperature of the body of the infants using electronics, shielded by double-wall plywood panels. The prototype can be manufactured and assembled locally in developing countries. The prototype consists of two boxes: one to hold the baby and one to hold the electronics. The students plan to ship the final prototype of the IncuBaby incubator to Queen Elizabeth Central Hospital in Malawi. Target Countries Malawi Target SDGs SDG 3: Good Health and Well-Being Market Suggested Retail Price $350.00 Target Users (Target Impact Group) Community, Small and Medium-sized Enterprises Distributors / Implementing Organizations Rice Engineering Alumni and BTB - HHMI Competitive Landscape Direct competitors include Otter Newborn Warmer . Countries Malawi Manufacturing/Building Method The prototype was designed and built by a team of engineering students at Rice University. The product is assembled with laser-cut plywood, acrylic windows in the top and front, and polystyrene foam for insulation. The product can be manufactured locally or remotely and shipped. Intellectural Property Type Select Type User Provision Model The product is in the development phase and the design team is piloting the project at Queen Elizabeth Central Hospital in Malawi. Distributions to Date Status None Accuracy of temperature control (deg C) Unknown Accuracy of temperature display (deg C) Unknown Alarm level Unknown Alarm type Unknown Use Duration (hours) Unknown Design Specifications The low-cost incubator designed and built at Rice University’s Oshman Engineering Design Kitchen uses heating pads and simple materials to keep an infant’s body temperature stable while providing temperature feedback. The material used for the fabrication of the prototype is birch plywood and acrylic with polyurethane foam to provide insulation in the walls of the system. All materials were specified as they are easily available in workshops of developing countries. Regulated by a micro-controller, the heating pads receive inputs from a thermistor which is mounted onto the body of the infant, keeping the infant's temperature at homeostasis. An alarm system alerts the care provider of overheating or power loss. Product Schematics Technical Support Provided by the manufacturer Replacement Components Unknown Lifecycle Unknown Manufacturer Specified Performance Parameters The incubator can maintain an infant's temperature within +/- 1 degree Celsius of the desired body temperature and has less than 2.5 % error. Vetted Performance Status The product is still in the prototype phase. Safety If the feedback system that reads the infant's temperature fails, the infant health might be compromised. Complementary Technical Systems A reliable power source is required to keep the incubator functioning. The incubator can be run on battery as well in the areas where continuous power supply is not available. Academic Research and References Tlebere, P., Jackson, D., Loveday, M., Matizirofa, L., Mbombo, N., Doherty, T., … & Chopra, M. (2007). Community-based situation analysis of maternal and neonatal care in South Africa to explore factors that impact utilization of maternal health services . The Journal of Midwifery & Women’s Health , 52 (4), 342-350. Compliance with regulations Unknown Other Information None Leave a Reply You must be logged in to post a comment. All Solutions Explore similar solutions Agriculture December 19, 2023 GlobalNeoNat Infant Incubator Read Solution Implemented by GlobalNeoNat Agriculture January 18, 2024 Oxfam-DelAgua Single Incubator Kit Read Solution Implemented by Barry Lloyd, University of Surrey Agriculture September 27, 2024 mOm Incubator Read Solution Implemented by mOm Incubator Agriculture January 27, 2024 Body Belt Incubator Read Solution Implemented by Environment & Public Health Organization (ENPHO) Agriculture January 27, 2024 Aquatest Incubator Read Solution Implemented by Water and Environmental Engineering, University of Bristol Agriculture August 22, 2024 E48 Egg Incubator Read Solution Implemented by Engoho Kuku Farmer Agriculture January 8, 2024 Lifeway Solar Poultry Incubator Read Solution Implemented by Lifeway Solar Agriculture December 27, 2023 AquaFilter Family Read Solution Implemented by Aquabox, UK Agriculture December 18, 2023 Be Girl PeriodPanty Read Solution Implemented by Be Girl Agriculture June 8, 2024 Touch Surgery Read Solution Implemented by Medtronic Contribute to E4C's Library of Breakthrough Sustainable Development Technology Solutions Suggest A Solution Get more information about Solutions Library and its features. Learn More Have thoughts on how we can improve? Give Us Feedback Join a global community of changemakers. Become A Member Join our newsletter to stay up to date on news, insights, and opportunities. Email Comments This field is for validation purposes and should be left unchanged. Subscribe Δ By subscribing you agree to with our Privacy Policy and provide consent to receive updates from our company. Contact Us About Us Impact Fellowship E4C Solutions Library Community Opportunities Challenges News and Insights Fund Us Impact Projects Advisory Services © 2026 Engineering For Change All Rights Reserved. Home News and Insights Privacy Policy Terms of Use"
+  },
+  "attribution": {
+    "developed_by": [],
+    "tested_by": [],
+    "content_partners": []
+  },
+  "snapshot": {
+    "competitive_landscape": "Direct competitors include",
+    "Product Description": "Incubaby is a low-cost solution to the condition of hypothermia in infants developed by a team of engineering students at Rice University. Hypothermia , a dangerous condition in which the baby’s temperature falls below 36 degrees Celsius (96.8 degrees Fahrenheit), is quite common in infants. The innovation works by increasing the core temperature of the body of the infants using electronics, shielded by double-wall plywood panels. The prototype can be manufactured and assembled locally in developing countries. The prototype consists of two boxes: one to hold the baby and one to hold the electronics. The students plan to ship the final prototype of the IncuBaby incubator to Queen Elizabeth Central Hospital in Malawi.",
+    "Leave a Reply": "You must be logged in to post a comment."
+  },
+  "manufacturing_delivery": {},
+  "performance_use": {},
+  "research_standards": {
+    "academic_references": "Tlebere, P., Jackson, D., Loveday, M., Matizirofa, L., Mbombo, N., Doherty, T., … & Chopra, M. (2007)."
+  },
+  "feedback": {},
+  "similar_solutions": [
+    "https://www.engineeringforchange.org/solutions/product/aquafilter-family/",
+    "https://www.engineeringforchange.org/solutions/product/aquatest-incubator/",
+    "https://www.engineeringforchange.org/solutions/product/begirl-panty/",
+    "https://www.engineeringforchange.org/solutions/product/body-belt-incubator/",
+    "https://www.engineeringforchange.org/solutions/product/e48-egg-incubator/",
+    "https://www.engineeringforchange.org/solutions/product/globalneonat-infant-incubator/",
+    "https://www.engineeringforchange.org/solutions/product/lifeway-solar-poultry-incubator/",
+    "https://www.engineeringforchange.org/solutions/product/mom-incubator/",
+    "https://www.engineeringforchange.org/solutions/product/otter-newborn-warmer/",
+    "https://www.engineeringforchange.org/solutions/product/oxfam-delagua-single-incubator-water-testing-kit/"
+  ],
+  "scraped_at": "2026-04-03T06:56:37Z"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "low-field-mri-scanner",
+  "url": "https://www.engineeringforchange.org/solutions/product/low-field-mri-scanner/",
+  "name": "Low Field MRI Scanner",
+  "description": "Low-cost MRI system for diagnosis of hydrocephalus in LMIC's",
+  "updated_on": "February 27, 2024",
+  "created_on": "March 7, 2022",
+  "sdgs": [
+    "SDG 3: Good Health and Well-Being"
+  ],
+  "taxonomy": {
+    "sector": "Health",
+    "sub_sector": "Diagnostic",
+    "category": "X-ray systems",
+    "sub_category": "Low Field MRI Scanner Updated on February 27, 2024 · Created on March 7, 2022 Low Field MRI Scanner Upcoming Update Low-cost MRI system for diagnosis of hydrocephalus in LMIC's Developed By Mbarara University of Science and Technology Tested By Delft University of Technology Mbarara University of Science and Technology Pennsylvania State University Content Partners Unknown Info Tags Upcoming Update Snapshot Manufacturing & Delivery Performance & Use Research & Standards Feedback Product Description The Low Field MRI Scanner , designed by Dr. Johnes Obungoloch of Mbarara University of Science and Technology, is capable of diagnosing infant hydrocephalus, a frequently occurring condition in sub-Saharan Africa. The system is built using ordinary permanent magnets encompassed in a magnet cylinder as rings adopted as an approach to reduce the cost of design. This low-field technology, which requires a smaller size magnet and yields lower resolution images, weighs 125 kg. As of 2021, this product is still in the prototyping phase. Target SDGs SDG 3: Good Health and Well-Being Market Suggested Retail Price $18,000.00 Target Users (Target Impact Group) Small and Medium-sized Enterprises, Public Sector Agencies Distributors / Implementing Organizations Unknown Regions Africa Manufacturing/Building Method This product is currently in the prototyping phase and not yet manufactured at scale. Prototypes are being developed in Uganda by the Biomedical Engineering Department at Mbarara University of Science and Technology. Intellectural Property Type Patent User Provision Model The designers have not yet selected their user provision model. Distributions to Date Status None Clinical application Diagnosis of hydrocephalus Indispensable equipment for function (Yes/No) Yes Consumables None Device weight (kg) 125 kg Device dimensions 2264 mm x 1338 mm x 790 mm Max power consumption (W) 500 W Power supply type 240 AC supply Maintenance or calibration required by user at time of use? (Yes/No) Yes Type of technology used for test Permanent Magnet Time required for procedure Unknown Design Specifications The most expensive part of a conventional MRI system is the superconducting magnets. During the design of a Low Field MRI scanner, the superconducting magnets were replaced by a configuration of inexpensive off-the-shelf permanent magnets placed in a magnet cylinder as rings. The variations in the magnetic field can be used for spatial encoding, thus removing the necessity for gradient coils. Product Schematics Technical Support Provided by Biomedical Engineering Research group at Mbarara University. Replacement Components Replaceable components include the permanent magnets. Lifecycle <10 years Interview with designer in 2021 Manufacturer Specified Performance Parameters Manufacturer specified performance targets include being less than 50,000 Euros, lightweight, and easy to maintain. Vetted Performance Status The research group conducted two forms of the test; 1) performance tests in a lab setting using cabbages and volunteers to carry out brain scans, 2) denoising tests using machine learning algorithms using a two-level Bregman iterative method for image reconstruction and image denoising procedure both in Uganda and Netherlands. Experiments were done on a noisy phantom that was obtained from a low field MRI scanner. Results demonstrated that the two-level Bregman algorithm performs superior image reconstructions that are almost noise-free. The method also performed better than the TBMDU algorithm, which performed better than DLMRI. However, the TBMDU algorithm was faster than the Bregman algorithm due to additional iterations required during the denoising step. Safety The low field MRI scanner uses a non-ionizing magnet field which is proven to be the safest technique for medical imaging. Complementary Technical Systems The MRI system has been made to configure on tablet/iPad as an alternative interface. Academic Research and References Geçmen, D., 2020, “ Deep Learning Techniques for Low-Field MRI ,” Masters Thesis for TU Delft. Diehl, J. C., van Doesum, F., Bakker, M., van Gijzen, M., O’Reilly, T., Muhumuza, I., … & Kabachelor, E. M., 2020, “ The embodiment of low-field MRI for the diagnosis of infant hydrocephalus in Uganda ,” 2020 IEEE Global Humanitarian Technology Conference, GHTC, pp. 1-8. den Bouter, M. D. L., Gecmen, D., Meijer, A., de Gans, D., Middelplaats, L., Remis, R., & van Gijzen, M. B., 2020, “ Description of a Low-field MRI Scanner Based on Permanent Magnets ,” CVCS. den Bouter, M. D. L., van Gijzen, M., & Remis, R., 2021, “ Low-field magnetic resonance imaging using multiplicative regularization ,” Magnetic Resonance Imaging, 75, pp. 21-33. Chavali, A. K., Arvind K. Chavali and Ramesh Ramji., 2018, “Frugal Innovation in Bioengineering for the Detection of Infectious Diseases ,” pp. 113. van Doesum, F., 2020, “ MRI for Africa: The design of an MRI for the diagnosis of infant hydrocephalus in Ugandan hospitals ,” Masters Thesis for TU Delft. Compliance with regulations None, as the Low field MRI is still under development. Evaluation methods The methods included in-house testing using small phantom images and a pilot with volunteer participants. More studies will be conducted after the completion of the design. Other Information None Leave a Reply You must be logged in to post a comment. All Solutions Explore similar solutions Agriculture January 17, 2024 mWater Field Test Kit Read Solution Implemented by mWater Agriculture June 5, 2024 Field Papers Read Solution Implemented by Stamen Design Agriculture December 27, 2023 AquaFilter Family Read Solution Implemented by Aquabox, UK Agriculture December 18, 2023 Be Girl PeriodPanty Read Solution Implemented by Be Girl Agriculture January 11, 2024 CeraMaji Read Solution Implemented by Kenya Ceramic Project (KCP) Agriculture January 8, 2024 DayOne Waterbag Read Solution Implemented by DayOne Response Agriculture December 19, 2023 Dose Right syringe clips Read Solution Implemented by Hadleigh Health Technologies and Rice University Agriculture February 16, 2024 Eniware Portable Sterilizer PS-25 Read Solution Implemented by Eniware Agriculture February 8, 2024 Firefly Phototherapy Device Read Solution Implemented by Design That Matters (DtM) Agriculture January 10, 2024 Hydraid® BioSand Filter Read Solution Implemented by NativeEnergy Contribute to E4C's Library of Breakthrough Sustainable Development Technology Solutions Suggest A Solution Get more information about Solutions Library and its features. Learn More Have thoughts on how we can improve? Give Us Feedback Join a global community of changemakers. Become A Member Join our newsletter to stay up to date on news, insights, and opportunities. Email Comments This field is for validation purposes and should be left unchanged. Subscribe Δ By subscribing you agree to with our Privacy Policy and provide consent to receive updates from our company. Contact Us About Us Impact Fellowship E4C Solutions Library Community Opportunities Challenges News and Insights Fund Us Impact Projects Advisory Services © 2026 Engineering For Change All Rights Reserved. Home News and Insights Privacy Policy Terms of Use"
+  },
+  "attribution": {
+    "developed_by": [],
+    "tested_by": [],
+    "content_partners": []
+  },
+  "snapshot": {
+    "Product Description": "The Low Field MRI Scanner , designed by Dr. Johnes Obungoloch of Mbarara University of Science and Technology, is capable of diagnosing infant hydrocephalus, a frequently occurring condition in sub-Saharan Africa. The system is built using ordinary permanent magnets encompassed in a magnet cylinder as rings adopted as an approach to reduce the cost of design. This low-field technology, which requires a smaller size magnet and yields lower resolution images, weighs 125 kg. As of 2021, this product is still in the prototyping phase.",
+    "Leave a Reply": "You must be logged in to post a comment."
+  },
+  "manufacturing_delivery": {},
+  "performance_use": {
+    "technical_support": "Provided by",
+    "lifecycle": "<10 years"
+  },
+  "research_standards": {
+    "academic_references": "Geçmen, D., 2020, “"
+  },
+  "feedback": {},
+  "similar_solutions": [
+    "https://www.engineeringforchange.org/solutions/product/aquafilter-family/",
+    "https://www.engineeringforchange.org/solutions/product/begirl-panty/",
+    "https://www.engineeringforchange.org/solutions/product/ceramaji/",
+    "https://www.engineeringforchange.org/solutions/product/dayone-waterbag/",
+    "https://www.engineeringforchange.org/solutions/product/dose-right-syringe-clips/",
+    "https://www.engineeringforchange.org/solutions/product/eniware-portable-sterilizer-ps-25/",
+    "https://www.engineeringforchange.org/solutions/product/field-papers/",
+    "https://www.engineeringforchange.org/solutions/product/firefly-phototherapy-device/",
+    "https://www.engineeringforchange.org/solutions/product/hydraid-biosand-filter/",
+    "https://www.engineeringforchange.org/solutions/product/mwater-field-test-kit/"
+  ],
+  "scraped_at": "2026-04-03T06:56:55Z"
+}
