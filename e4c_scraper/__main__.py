@@ -14,36 +14,43 @@ def run_scraper():
     # Step 1 -- Discover links
     if LINKS_CACHE.exists():
         with open(LINKS_CACHE) as f:
-            all_links = json.load(f)
-        log.info(f"Loaded {len(all_links)} cached links from {LINKS_CACHE}")
+            all_links_data = json.load(f)
+        log.info(f"Loaded {len(all_links_data)} cached items from {LINKS_CACHE}")
     else:
-        all_links = discover_product_links()
+        all_links_data = discover_product_links()
         with open(LINKS_CACHE, "w") as f:
-            json.dump(all_links, f, indent=2)
-        log.info(f"Saved {len(all_links)} links to {LINKS_CACHE}")
+            json.dump(all_links_data, f, indent=2)
+        log.info(f"Saved {len(all_links_data)} links to {LINKS_CACHE}")
 
-    if not all_links:
+    if not all_links_data:
         log.error("No product links found. Aborting.")
         return
 
+    # --- NEW: Safe Extraction ---
+    # Handle both the new dictionary format and the old legacy list format
+    if isinstance(all_links_data, dict):
+        urls_to_scrape = list(all_links_data.keys())
+    else:
+        urls_to_scrape = all_links_data 
+
     # Step 2 -- Scrape
-    log.info(f"Scraping {len(all_links)} products ({MAX_WORKERS} threads)...")
+    log.info(f"Scraping {len(urls_to_scrape)} products ({MAX_WORKERS} threads)...")
     errors: list = []
     done = 0
 
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as ex:
         futures = {
             ex.submit(scrape_and_save, url, OUTPUT_DIR): url
-            for url in all_links
+            for url in urls_to_scrape
         }
         for future in as_completed(futures):
             url, ok = future.result()
             done += 1
             if not ok:
                 errors.append(url)
-                log.warning(f"FAILED ({done}/{len(all_links)}): {url}")
+                log.warning(f"FAILED ({done}/{len(urls_to_scrape)}): {url}")
             elif done % 50 == 0:
-                log.info(f"Progress: {done}/{len(all_links)} | errors so far: {len(errors)}")
+                log.info(f"Progress: {done}/{len(urls_to_scrape)} | errors so far: {len(errors)}")
 
     log.info(f"Done. {done - len(errors)} ok, {len(errors)} failed.")
 

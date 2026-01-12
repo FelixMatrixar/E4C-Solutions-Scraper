@@ -30,117 +30,88 @@ def fetch(url: str, retries: int = MAX_RETRIES) -> Optional[BeautifulSoup]:
 # Link discovery
 # ---------------------------------------------------------------------------
 
-def discover_product_links() -> list:
+def discover_product_links() -> dict:
     """
-    Two-stage URL discovery:
-      Stage 1: WordPress sitemap (fast, gets all URLs at once)
-      Stage 2: BFS crawl via internal 'similar solutions' links (fallback)
+    Multi-stage URL discovery bypassing JS traps.
+    Returns a dictionary to maintain compatibility with the scraper pipeline.
     """
-    links: set = set()
+    discovered_products: dict = {}
 
-    # ── Stage 1: Try sitemap URLs ─────────────────────────────────────────────
-    sitemap_candidates = [
-        f"{BASE_URL}/wp-sitemap.xml",
-        f"{BASE_URL}/sitemap.xml",
-        f"{BASE_URL}/sitemap_index.xml",
-    ]
-
-    for sitemap_url in sitemap_candidates:
-        log.info(f"Trying sitemap: {sitemap_url}")
-        try:
-            r = session.get(sitemap_url, timeout=20)
-            if r.status_code != 200:
-                continue
-
-            # It's a sitemap index — find sub-sitemaps containing 'solutions'
-            if "<sitemapindex" in r.text:
-                import xml.etree.ElementTree as ET
-                ns = {"sm": "http://www.sitemaps.org/schemas/sitemap/0.9"}
-                try:
-                    root = ET.fromstring(r.text)
-                    sub_urls = [
-                        loc.text.strip()
-                        for loc in root.findall(".//sm:loc", ns)
-                        if loc.text and "solution" in loc.text.lower()
-                    ]
-                except ET.ParseError:
-                    sub_urls = re.findall(r'<loc>(.*?solution.*?)</loc>', r.text)
-
-                for sub_url in sub_urls:
-                    log.info(f"  Sub-sitemap: {sub_url}")
-                    r2 = session.get(sub_url, timeout=20)
-                    if r2.status_code == 200:
-                        found = re.findall(
-                            r'<loc>(https?://[^<]*/solutions/product/[^<]*)</loc>',
-                            r2.text
-                        )
-                        links.update(
-                            (u.rstrip("/") + "/") for u in found
-                        )
-                    time.sleep(0.5)
-
-            # It's a direct sitemap with product URLs
-            else:
-                found = re.findall(
-                    r'<loc>(https?://[^<]*/solutions/product/[^<]*)</loc>',
-                    r.text
-                )
-                links.update((u.rstrip("/") + "/") for u in found)
-
-        except requests.RequestException as e:
-            log.warning(f"  Sitemap error: {e}")
-        time.sleep(0.5)
-
-    # Also try numbered sub-sitemaps directly
-    for page_n in range(1, 15):
-        url = f"{BASE_URL}/wp-sitemap-posts-solutions-{page_n}.xml"
-        try:
-            r = session.get(url, timeout=15)
-            if r.status_code == 404:
+    # ── Stage 1: The WordPress REST API (Fastest) ─────────────────────────────
+    log.info("Stage 1: Attempting to pull from WordPress REST API...")
+    api_success = False
+    
+    for endpoint in ["solution", "solutions", "product"]:
+        if api_success: break
+        
+        for page in range(1, 25):  # 25 pages * 100 items = up to 2500 links
+            api_url = f"{BASE_URL}/wp-json/wp/v2/{endpoint}?per_page=100&page={page}"
+            try:
+                r = session.get(api_url, timeout=10)
+                if r.status_code == 200:
+                    data = r.json()
+                    if not data: 
+                        break  # End of pagination
+                    
+                    added = 0
+                    for item in data:
+                        if "link" in item:
+                            url = item["link"].rstrip("/") + "/"
+                            if url not in discovered_products:
+                                # We grab basic metadata from the API if possible
+                                title = item.get("title", {}).get("rendered", "Unknown")
+                                discovered_products[url] = {
+                                    "url": url,
+                                    "name": title,
+                                    "date_added": item.get("date", "").split("T")[0],
+                                    "sector": None, # Will extract during deep scrape
+                                    "company": None, # Will extract during deep scrape
+                                    "tags": []
+                                }
+                                added += 1
+                    
+                    log.info(f"  API ({endpoint}) page {page}: +{added} URLs")
+                    api_success = True
+                else:
+                    break 
+            except Exception:
                 break
-            if r.status_code == 200:
-                found = re.findall(
-                    r'<loc>(https?://[^<]*/solutions/product/[^<]*)</loc>',
-                    r.text
-                )
-                if not found:
-                    break
-                log.info(f"  wp-sitemap page {page_n}: {len(found)} URLs")
-                links.update((u.rstrip("/") + "/") for u in found)
-            time.sleep(0.5)
-        except requests.RequestException:
-            break
 
-    if links:
-        log.info(f"Sitemap discovery: {len(links)} product URLs found.")
-
-    # ── Stage 2: BFS via internal 'similar solutions' links ───────────────────
-    seeds = list(links) if links else []
-    known_seeds = [
+    # ── Stage 2: Deep BFS Spidering (The Fallback) ────────────────────────────
+    log.info(f"Stage 2: Deep BFS crawl (starting with {len(discovered_products)} known links)...")
+    
+    queue = list(discovered_products.keys()) + [
         f"{BASE_URL}/solutions/product/splash-stations/",
         f"{BASE_URL}/solutions/product/lifestraw-family-1-0/",
         f"{BASE_URL}/solutions/product/jikojoy-charcoal-stove/",
         f"{BASE_URL}/solutions/product/kio-kit/",
-        f"{BASE_URL}/solutions/product/wefarm/",
-        f"{BASE_URL}/solutions/product/iz-southern-cross-windmill/",
-        f"{BASE_URL}/solutions/product/safi-water-filters/",
-        f"{BASE_URL}/solutions/product/mwater-explorer-mobile-app/",
     ]
-    queue = list(set(seeds + known_seeds))
+    queue = list(dict.fromkeys(queue)) # Remove duplicates
+    
     visited: set = set()
     bfs_fetches = 0
-    MAX_BFS_FETCHES = 200
-
-    log.info(f"BFS crawl starting with {len(queue)} seeds...")
+    MAX_BFS_FETCHES = 1500
 
     while queue and bfs_fetches < MAX_BFS_FETCHES:
         url = queue.pop(0)
         normalized = url.rstrip("/") + "/"
+        
         if normalized in visited:
             continue
+            
         visited.add(normalized)
-        links.add(normalized)
         bfs_fetches += 1
+
+        # If it's a completely new URL from the BFS, add it to our dictionary
+        if normalized not in discovered_products:
+            discovered_products[normalized] = {
+                "url": normalized,
+                "name": None,
+                "date_added": None,
+                "sector": None,
+                "company": None,
+                "tags": []
+            }
 
         soup = fetch(url)
         if not soup:
@@ -150,16 +121,15 @@ def discover_product_links() -> list:
         for a in soup.find_all("a", href=True):
             href = a["href"]
             if "/solutions/product/" in href:
-                full = urljoin(BASE_URL, href).rstrip("/") + "/"
-                if full not in visited and full not in queue:
-                    queue.append(full)
+                full_url = urljoin(BASE_URL, href).rstrip("/") + "/"
+                if full_url not in visited and full_url not in queue:
+                    queue.append(full_url)
                     found_on_page += 1
 
-        log.info(
-            f"  BFS [{bfs_fetches}] {url.split('/')[-2]} "
-            f"-> +{found_on_page} new | queue={len(queue)} | total={len(links)}"
-        )
+        if bfs_fetches % 10 == 0 or len(queue) == 0:
+            log.info(f"  BFS [{bfs_fetches}] -> queue={len(queue)} | total_discovered={len(discovered_products)}")
+        
         time.sleep(DELAY)
 
-    log.info(f"Discovery complete: {len(links)} unique product URLs.")
-    return sorted(links)
+    log.info(f"Discovery complete: {len(discovered_products)} unique product URLs.")
+    return discovered_products

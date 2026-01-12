@@ -241,3 +241,291 @@
 2026-04-03 13:57:43,367 [INFO] Done. 199 ok, 1 failed.
 2026-04-03 13:57:43,368 [INFO] Error list -> e4c_scrape_errors.json
 2026-04-03 13:57:43,368 [INFO] Merging -> e4c_solutions_all.json
+2026-04-03 14:33:29,834 [INFO] Loaded 200 cached links from e4c_product_links.json
+2026-04-03 14:33:29,834 [INFO] Scraping 200 products (3 threads)...
+2026-04-03 14:33:29,840 [INFO] Progress: 50/200 | errors so far: 0
+2026-04-03 14:33:29,843 [INFO] Progress: 100/200 | errors so far: 0
+2026-04-03 14:33:29,848 [INFO] Progress: 150/200 | errors so far: 0
+2026-04-03 14:33:31,195 [WARNING] Attempt 1/3 failed [https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/]: 404 Client Error: Not Found for url: https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-03 14:33:37,247 [WARNING] Attempt 2/3 failed [https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/]: 404 Client Error: Not Found for url: https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-03 14:33:49,284 [WARNING] Attempt 3/3 failed [https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/]: 404 Client Error: Not Found for url: https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-03 14:33:49,284 [ERROR] All retries exhausted: https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-03 14:33:49,284 [WARNING] FAILED (200/200): https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-03 14:33:49,284 [INFO] Done. 199 ok, 1 failed.
+2026-04-03 14:33:49,285 [INFO] Error list -> e4c_scrape_errors.json
+2026-04-03 14:33:49,285 [INFO] Merging -> e4c_solutions_all.json
+2026-04-08 23:28:28,932 [INFO] Loaded 200 cached links from e4c_product_links.json
+2026-04-08 23:28:28,932 [INFO] Scraping 200 products (3 threads)...
+2026-04-08 23:28:28,940 [INFO] Progress: 50/200 | errors so far: 0
+2026-04-08 23:28:28,945 [INFO] Progress: 100/200 | errors so far: 0
+2026-04-08 23:28:28,952 [INFO] Progress: 150/200 | errors so far: 0
+2026-04-08 23:28:30,620 [WARNING] Attempt 1/3 failed [https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/]: 404 Client Error: Not Found for url: https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-08 23:28:36,697 [WARNING] Attempt 2/3 failed [https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/]: 404 Client Error: Not Found for url: https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-08 23:28:48,740 [WARNING] Attempt 3/3 failed [https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/]: 404 Client Error: Not Found for url: https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-08 23:28:48,740 [ERROR] All retries exhausted: https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-08 23:28:51,520 [INFO] Starting directory pagination crawl...
+2026-04-08 23:28:51,520 [INFO] Fetching directory page 1...
+2026-04-08 23:28:52,007 [INFO]   -> Found 3 new links on page 1. Total unique: 3
+2026-04-08 23:28:53,209 [INFO] Fetching directory page 2...
+2026-04-08 23:28:53,893 [INFO] No products found on page 2. Pagination complete.
+2026-04-08 23:28:53,893 [INFO] Discovery complete: 3 unique product URLs.
+2026-04-08 23:28:53,894 [INFO] Saved 3 links to e4c_product_links.json
+2026-04-08 23:28:53,894 [INFO] Scraping 3 products (3 threads)...
+2026-04-08 23:28:53,897 [INFO] Done. 3 ok, 0 failed.
+2026-04-08 23:28:53,897 [INFO] Merging -> e4c_solutions_all.json
+2026-04-08 23:31:08,782 [INFO] Loaded 3 cached links from e4c_product_links.json
+2026-04-08 23:31:08,782 [INFO] Scraping 3 products (3 threads)...
+2026-04-08 23:31:08,784 [INFO] Done. 3 ok, 0 failed.
+2026-04-08 23:31:08,784 [INFO] Merging -> e4c_solutions_all.json
+2026-04-08 23:31:14,949 [INFO] Stage 1: Attempting to pull from WordPress REST API...
+2026-04-08 23:31:17,432 [INFO] Stage 2: Deep BFS crawl (starting with 0 known links)...
+2026-04-08 23:31:20,633 [WARNING] Attempt 1/3 failed [https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/]: 404 Client Error: Not Found for url: https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-08 23:31:26,703 [WARNING] Attempt 2/3 failed [https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/]: 404 Client Error: Not Found for url: https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-08 23:31:39,257 [WARNING] Attempt 3/3 failed [https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/]: 404 Client Error: Not Found for url: https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-08 23:31:39,258 [ERROR] All retries exhausted: https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-08 23:31:50,390 [INFO]   BFS [10] -> queue=100 | total_discovered=10
+2026-04-08 23:32:08,611 [INFO]   BFS [20] -> queue=146 | total_discovered=20
+2026-04-08 23:32:23,774 [INFO]   BFS [30] -> queue=156 | total_discovered=30
+2026-04-08 23:32:41,060 [INFO]   BFS [40] -> queue=200 | total_discovered=40
+2026-04-08 23:33:05,300 [INFO]   BFS [50] -> queue=232 | total_discovered=50
+2026-04-08 23:33:33,000 [INFO]   BFS [60] -> queue=272 | total_discovered=60
+2026-04-08 23:33:49,952 [INFO]   BFS [70] -> queue=285 | total_discovered=70
+2026-04-08 23:34:07,325 [INFO]   BFS [80] -> queue=334 | total_discovered=80
+2026-04-08 23:34:22,730 [INFO]   BFS [90] -> queue=338 | total_discovered=90
+2026-04-08 23:34:53,895 [WARNING] Attempt 1/3 failed [http://old.engineeringforchange.org/solutions/product/aquatainer-10l-collapsible/]: HTTPConnectionPool(host='old.engineeringforchange.org', port=80): Max retries exceeded with url: /solutions/product/aquatainer-10l-collapsible/ (Caused by ConnectTimeoutError(<HTTPConnection(host='old.engineeringforchange.org', port=80) at 0x28cd1b6e710>, 'Connection to old.engineeringforchange.org timed out. (connect timeout=25)'))
+2026-04-08 23:35:20,932 [WARNING] Attempt 2/3 failed [http://old.engineeringforchange.org/solutions/product/aquatainer-10l-collapsible/]: HTTPConnectionPool(host='old.engineeringforchange.org', port=80): Max retries exceeded with url: /solutions/product/aquatainer-10l-collapsible/ (Caused by ConnectTimeoutError(<HTTPConnection(host='old.engineeringforchange.org', port=80) at 0x28cd358b7d0>, 'Connection to old.engineeringforchange.org timed out. (connect timeout=25)'))
+2026-04-08 23:35:53,957 [WARNING] Attempt 3/3 failed [http://old.engineeringforchange.org/solutions/product/aquatainer-10l-collapsible/]: HTTPConnectionPool(host='old.engineeringforchange.org', port=80): Max retries exceeded with url: /solutions/product/aquatainer-10l-collapsible/ (Caused by ConnectTimeoutError(<HTTPConnection(host='old.engineeringforchange.org', port=80) at 0x28cd358a2d0>, 'Connection to old.engineeringforchange.org timed out. (connect timeout=25)'))
+2026-04-08 23:35:53,958 [ERROR] All retries exhausted: http://old.engineeringforchange.org/solutions/product/aquatainer-10l-collapsible/
+2026-04-08 23:35:56,799 [INFO]   BFS [100] -> queue=338 | total_discovered=100
+2026-04-08 23:36:12,026 [INFO]   BFS [110] -> queue=340 | total_discovered=110
+2026-04-08 23:36:34,222 [INFO]   BFS [120] -> queue=351 | total_discovered=120
+2026-04-08 23:36:54,281 [INFO]   BFS [130] -> queue=377 | total_discovered=130
+2026-04-08 23:37:11,102 [INFO]   BFS [140] -> queue=380 | total_discovered=140
+2026-04-08 23:37:14,087 [INFO] Starting directory pagination crawl with metadata extraction...
+2026-04-08 23:37:14,088 [INFO] Fetching directory page 1...
+2026-04-08 23:37:14,255 [INFO]   -> Found 1 valid, active products on page 1. Total: 1
+2026-04-08 23:37:15,456 [INFO] Fetching directory page 2...
+2026-04-08 23:37:15,629 [INFO]   -> Found 0 valid, active products on page 2. Total: 1
+2026-04-08 23:37:16,831 [INFO] Fetching directory page 3...
+2026-04-08 23:37:17,412 [INFO]   -> Found 0 valid, active products on page 3. Total: 1
+2026-04-08 23:37:18,613 [INFO] Fetching directory page 4...
+2026-04-08 23:37:19,762 [INFO]   -> Found 0 valid, active products on page 4. Total: 1
+2026-04-08 23:37:20,963 [INFO] Fetching directory page 5...
+2026-04-08 23:37:21,277 [INFO]   -> Found 0 valid, active products on page 5. Total: 1
+2026-04-08 23:37:22,478 [INFO] Fetching directory page 6...
+2026-04-08 23:37:22,807 [INFO]   -> Found 0 valid, active products on page 6. Total: 1
+2026-04-08 23:43:45,409 [INFO] Stage 1: Attempting to pull from WordPress REST API...
+2026-04-08 23:43:45,684 [INFO] Stage 2: Deep BFS crawl (starting with 0 known links)...
+2026-04-08 23:43:48,422 [WARNING] Attempt 1/3 failed [https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/]: 404 Client Error: Not Found for url: https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-08 23:43:54,444 [WARNING] Attempt 2/3 failed [https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/]: 404 Client Error: Not Found for url: https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-08 23:44:06,518 [WARNING] Attempt 3/3 failed [https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/]: 404 Client Error: Not Found for url: https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-08 23:44:06,519 [ERROR] All retries exhausted: https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-08 23:44:14,278 [INFO]   BFS [10] -> queue=99 | total_discovered=10
+2026-04-08 23:44:26,996 [INFO]   BFS [20] -> queue=146 | total_discovered=20
+2026-04-08 23:44:40,032 [INFO]   BFS [30] -> queue=154 | total_discovered=30
+2026-04-08 23:44:52,642 [INFO]   BFS [40] -> queue=196 | total_discovered=40
+2026-04-08 23:45:05,523 [INFO]   BFS [50] -> queue=238 | total_discovered=50
+2026-04-08 23:45:18,319 [INFO]   BFS [60] -> queue=251 | total_discovered=60
+2026-04-08 23:45:31,278 [INFO]   BFS [70] -> queue=301 | total_discovered=70
+2026-04-08 23:45:45,472 [INFO]   BFS [80] -> queue=306 | total_discovered=80
+2026-04-08 23:46:17,716 [WARNING] Attempt 1/3 failed [http://old.engineeringforchange.org/solutions/product/aquatainer-10l-collapsible/]: HTTPConnectionPool(host='old.engineeringforchange.org', port=80): Max retries exceeded with url: /solutions/product/aquatainer-10l-collapsible/ (Caused by ConnectTimeoutError(<HTTPConnection(host='old.engineeringforchange.org', port=80) at 0x24621d12450>, 'Connection to old.engineeringforchange.org timed out. (connect timeout=25)'))
+2026-04-08 23:46:44,763 [WARNING] Attempt 2/3 failed [http://old.engineeringforchange.org/solutions/product/aquatainer-10l-collapsible/]: HTTPConnectionPool(host='old.engineeringforchange.org', port=80): Max retries exceeded with url: /solutions/product/aquatainer-10l-collapsible/ (Caused by ConnectTimeoutError(<HTTPConnection(host='old.engineeringforchange.org', port=80) at 0x24620da3590>, 'Connection to old.engineeringforchange.org timed out. (connect timeout=25)'))
+2026-04-08 23:47:17,831 [WARNING] Attempt 3/3 failed [http://old.engineeringforchange.org/solutions/product/aquatainer-10l-collapsible/]: HTTPConnectionPool(host='old.engineeringforchange.org', port=80): Max retries exceeded with url: /solutions/product/aquatainer-10l-collapsible/ (Caused by ConnectTimeoutError(<HTTPConnection(host='old.engineeringforchange.org', port=80) at 0x24620e04610>, 'Connection to old.engineeringforchange.org timed out. (connect timeout=25)'))
+2026-04-08 23:47:17,831 [ERROR] All retries exhausted: http://old.engineeringforchange.org/solutions/product/aquatainer-10l-collapsible/
+2026-04-08 23:47:19,247 [INFO]   BFS [90] -> queue=307 | total_discovered=90
+2026-04-08 23:47:32,199 [INFO]   BFS [100] -> queue=308 | total_discovered=100
+2026-04-08 23:47:45,070 [INFO]   BFS [110] -> queue=315 | total_discovered=110
+2026-04-08 23:47:58,983 [INFO]   BFS [120] -> queue=349 | total_discovered=120
+2026-04-08 23:48:11,838 [INFO]   BFS [130] -> queue=352 | total_discovered=130
+2026-04-08 23:48:27,262 [INFO]   BFS [140] -> queue=364 | total_discovered=140
+2026-04-08 23:48:41,852 [INFO]   BFS [150] -> queue=365 | total_discovered=150
+2026-04-08 23:48:46,652 [INFO] Stage 1: Attempting to pull from WordPress REST API...
+2026-04-08 23:48:46,857 [INFO] Stage 2: Deep BFS crawl (starting with 0 known links)...
+2026-04-08 23:48:49,423 [WARNING] Attempt 1/3 failed [https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/]: 404 Client Error: Not Found for url: https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-08 23:48:56,152 [INFO]   BFS [160] -> queue=376 | total_discovered=160
+2026-04-08 23:49:13,206 [INFO]   BFS [170] -> queue=382 | total_discovered=170
+2026-04-08 23:49:28,147 [INFO]   BFS [180] -> queue=385 | total_discovered=180
+2026-04-08 23:49:47,817 [INFO]   BFS [190] -> queue=404 | total_discovered=190
+2026-04-08 23:50:07,829 [INFO]   BFS [200] -> queue=412 | total_discovered=200
+2026-04-08 23:50:24,957 [INFO]   BFS [210] -> queue=431 | total_discovered=210
+2026-04-08 23:50:40,060 [INFO]   BFS [220] -> queue=443 | total_discovered=220
+2026-04-08 23:50:56,229 [INFO]   BFS [230] -> queue=449 | total_discovered=230
+2026-04-08 23:51:12,847 [INFO]   BFS [240] -> queue=471 | total_discovered=240
+2026-04-08 23:51:30,031 [INFO]   BFS [250] -> queue=481 | total_discovered=250
+2026-04-08 23:51:44,737 [INFO]   BFS [260] -> queue=497 | total_discovered=260
+2026-04-08 23:51:59,421 [INFO]   BFS [270] -> queue=506 | total_discovered=270
+2026-04-08 23:52:15,911 [INFO]   BFS [280] -> queue=507 | total_discovered=280
+2026-04-08 23:52:32,768 [INFO]   BFS [290] -> queue=504 | total_discovered=290
+2026-04-08 23:52:47,558 [INFO]   BFS [300] -> queue=499 | total_discovered=300
+2026-04-08 23:53:03,677 [INFO]   BFS [310] -> queue=500 | total_discovered=310
+2026-04-08 23:53:20,460 [INFO]   BFS [320] -> queue=497 | total_discovered=320
+2026-04-08 23:53:35,919 [INFO]   BFS [330] -> queue=506 | total_discovered=330
+2026-04-08 23:53:51,703 [INFO]   BFS [340] -> queue=510 | total_discovered=340
+2026-04-08 23:54:09,685 [INFO]   BFS [350] -> queue=519 | total_discovered=350
+2026-04-08 23:54:29,909 [INFO]   BFS [360] -> queue=516 | total_discovered=360
+2026-04-08 23:54:46,744 [INFO]   BFS [370] -> queue=529 | total_discovered=370
+2026-04-08 23:55:02,857 [INFO]   BFS [380] -> queue=538 | total_discovered=380
+2026-04-08 23:55:18,384 [INFO]   BFS [390] -> queue=533 | total_discovered=390
+2026-04-08 23:55:32,343 [INFO]   BFS [400] -> queue=538 | total_discovered=400
+2026-04-08 23:55:56,133 [WARNING] Attempt 1/3 failed [http://old.engineeringforchange.org/solutions/product/water-pasteurization-indicator-wapi/]: HTTPConnectionPool(host='old.engineeringforchange.org', port=80): Max retries exceeded with url: /solutions/product/water-pasteurization-indicator-wapi/ (Caused by ConnectTimeoutError(<HTTPConnection(host='old.engineeringforchange.org', port=80) at 0x246210fee10>, 'Connection to old.engineeringforchange.org timed out. (connect timeout=25)'))
+2026-04-08 23:56:23,173 [WARNING] Attempt 2/3 failed [http://old.engineeringforchange.org/solutions/product/water-pasteurization-indicator-wapi/]: HTTPConnectionPool(host='old.engineeringforchange.org', port=80): Max retries exceeded with url: /solutions/product/water-pasteurization-indicator-wapi/ (Caused by ConnectTimeoutError(<HTTPConnection(host='old.engineeringforchange.org', port=80) at 0x246219d7c50>, 'Connection to old.engineeringforchange.org timed out. (connect timeout=25)'))
+2026-04-08 23:56:56,231 [WARNING] Attempt 3/3 failed [http://old.engineeringforchange.org/solutions/product/water-pasteurization-indicator-wapi/]: HTTPConnectionPool(host='old.engineeringforchange.org', port=80): Max retries exceeded with url: /solutions/product/water-pasteurization-indicator-wapi/ (Caused by ConnectTimeoutError(<HTTPConnection(host='old.engineeringforchange.org', port=80) at 0x24622064c50>, 'Connection to old.engineeringforchange.org timed out. (connect timeout=25)'))
+2026-04-08 23:56:56,231 [ERROR] All retries exhausted: http://old.engineeringforchange.org/solutions/product/water-pasteurization-indicator-wapi/
+2026-04-08 23:57:06,598 [INFO]   BFS [410] -> queue=533 | total_discovered=410
+2026-04-08 23:57:21,769 [INFO]   BFS [420] -> queue=529 | total_discovered=420
+2026-04-08 23:57:36,271 [INFO]   BFS [430] -> queue=531 | total_discovered=430
+2026-04-08 23:57:50,695 [INFO]   BFS [440] -> queue=527 | total_discovered=440
+2026-04-08 23:58:07,281 [INFO]   BFS [450] -> queue=520 | total_discovered=450
+2026-04-08 23:58:25,214 [INFO]   BFS [460] -> queue=529 | total_discovered=460
+2026-04-08 23:58:43,749 [INFO]   BFS [470] -> queue=533 | total_discovered=470
+2026-04-08 23:58:58,467 [INFO]   BFS [480] -> queue=535 | total_discovered=480
+2026-04-08 23:59:12,743 [INFO]   BFS [490] -> queue=535 | total_discovered=490
+2026-04-08 23:59:29,534 [INFO]   BFS [500] -> queue=534 | total_discovered=500
+2026-04-08 23:59:47,333 [INFO]   BFS [510] -> queue=533 | total_discovered=510
+2026-04-09 00:00:02,946 [INFO]   BFS [520] -> queue=534 | total_discovered=520
+2026-04-09 00:00:16,676 [INFO]   BFS [530] -> queue=545 | total_discovered=530
+2026-04-09 00:00:31,717 [INFO]   BFS [540] -> queue=559 | total_discovered=540
+2026-04-09 00:00:49,101 [INFO]   BFS [550] -> queue=551 | total_discovered=550
+2026-04-09 00:01:05,594 [INFO]   BFS [560] -> queue=560 | total_discovered=560
+2026-04-09 00:01:21,001 [INFO]   BFS [570] -> queue=561 | total_discovered=570
+2026-04-09 00:01:35,833 [INFO]   BFS [580] -> queue=570 | total_discovered=580
+2026-04-09 00:01:52,307 [INFO]   BFS [590] -> queue=571 | total_discovered=590
+2026-04-09 00:02:08,614 [INFO]   BFS [600] -> queue=570 | total_discovered=600
+2026-04-09 00:02:24,743 [INFO]   BFS [610] -> queue=568 | total_discovered=610
+2026-04-09 00:02:41,532 [INFO]   BFS [620] -> queue=561 | total_discovered=620
+2026-04-09 00:02:56,281 [INFO]   BFS [630] -> queue=564 | total_discovered=630
+2026-04-09 00:03:11,500 [INFO]   BFS [640] -> queue=555 | total_discovered=640
+2026-04-09 00:03:29,190 [INFO]   BFS [650] -> queue=556 | total_discovered=650
+2026-04-09 00:03:47,286 [INFO]   BFS [660] -> queue=555 | total_discovered=660
+2026-04-09 00:04:00,720 [INFO]   BFS [670] -> queue=545 | total_discovered=670
+2026-04-09 00:04:15,678 [INFO]   BFS [680] -> queue=541 | total_discovered=680
+2026-04-09 00:04:32,006 [INFO]   BFS [690] -> queue=543 | total_discovered=690
+2026-04-09 00:04:46,464 [INFO]   BFS [700] -> queue=540 | total_discovered=700
+2026-04-09 00:05:01,803 [INFO]   BFS [710] -> queue=539 | total_discovered=710
+2026-04-09 00:05:17,916 [INFO]   BFS [720] -> queue=531 | total_discovered=720
+2026-04-09 00:05:28,491 [WARNING] Attempt 1/3 failed [https://www.engineeringforchange.org/solutions/product/sanivation-container-based-sanitation-cbs-waste-collection-service/]: 404 Client Error: Not Found for url: https://www.engineeringforchange.org/solutions/product/sanivation-container-based-sanitation-cbs-waste-collection-service/
+2026-04-09 00:05:34,569 [WARNING] Attempt 2/3 failed [https://www.engineeringforchange.org/solutions/product/sanivation-container-based-sanitation-cbs-waste-collection-service/]: 404 Client Error: Not Found for url: https://www.engineeringforchange.org/solutions/product/sanivation-container-based-sanitation-cbs-waste-collection-service/
+2026-04-09 00:05:46,610 [WARNING] Attempt 3/3 failed [https://www.engineeringforchange.org/solutions/product/sanivation-container-based-sanitation-cbs-waste-collection-service/]: 404 Client Error: Not Found for url: https://www.engineeringforchange.org/solutions/product/sanivation-container-based-sanitation-cbs-waste-collection-service/
+2026-04-09 00:05:46,611 [ERROR] All retries exhausted: https://www.engineeringforchange.org/solutions/product/sanivation-container-based-sanitation-cbs-waste-collection-service/
+2026-04-09 00:05:51,428 [INFO]   BFS [730] -> queue=526 | total_discovered=730
+2026-04-09 00:06:06,008 [INFO]   BFS [740] -> queue=521 | total_discovered=740
+2026-04-09 00:06:22,634 [INFO]   BFS [750] -> queue=515 | total_discovered=750
+2026-04-09 00:06:38,291 [INFO]   BFS [760] -> queue=505 | total_discovered=760
+2026-04-09 00:06:53,806 [INFO]   BFS [770] -> queue=503 | total_discovered=770
+2026-04-09 00:07:09,460 [INFO]   BFS [780] -> queue=498 | total_discovered=780
+2026-04-09 00:07:24,447 [INFO]   BFS [790] -> queue=488 | total_discovered=790
+2026-04-09 00:07:39,759 [INFO]   BFS [800] -> queue=482 | total_discovered=800
+2026-04-09 00:07:56,351 [INFO]   BFS [810] -> queue=476 | total_discovered=810
+2026-04-09 00:08:10,705 [INFO]   BFS [820] -> queue=475 | total_discovered=820
+2026-04-09 00:08:26,460 [INFO]   BFS [830] -> queue=466 | total_discovered=830
+2026-04-09 00:08:44,178 [INFO]   BFS [840] -> queue=457 | total_discovered=840
+2026-04-09 00:09:01,735 [INFO]   BFS [850] -> queue=448 | total_discovered=850
+2026-04-09 00:09:16,760 [INFO]   BFS [860] -> queue=438 | total_discovered=860
+2026-04-09 00:09:31,685 [INFO]   BFS [870] -> queue=435 | total_discovered=870
+2026-04-09 00:09:45,889 [INFO]   BFS [880] -> queue=431 | total_discovered=880
+2026-04-09 00:10:00,530 [INFO]   BFS [890] -> queue=423 | total_discovered=890
+2026-04-09 00:10:15,560 [INFO]   BFS [900] -> queue=416 | total_discovered=900
+2026-04-09 00:10:29,535 [INFO]   BFS [910] -> queue=409 | total_discovered=910
+2026-04-09 00:10:44,466 [INFO]   BFS [920] -> queue=400 | total_discovered=920
+2026-04-09 00:10:58,625 [INFO]   BFS [930] -> queue=395 | total_discovered=930
+2026-04-09 00:11:13,591 [INFO]   BFS [940] -> queue=387 | total_discovered=940
+2026-04-09 00:11:28,796 [INFO]   BFS [950] -> queue=379 | total_discovered=950
+2026-04-09 00:11:44,007 [INFO]   BFS [960] -> queue=372 | total_discovered=960
+2026-04-09 00:11:59,179 [INFO]   BFS [970] -> queue=372 | total_discovered=970
+2026-04-09 00:12:13,951 [INFO]   BFS [980] -> queue=364 | total_discovered=980
+2026-04-09 00:12:30,341 [INFO]   BFS [990] -> queue=357 | total_discovered=990
+2026-04-09 00:12:48,208 [INFO]   BFS [1000] -> queue=350 | total_discovered=1000
+2026-04-09 00:13:01,592 [INFO]   BFS [1010] -> queue=346 | total_discovered=1010
+2026-04-09 00:13:16,253 [INFO]   BFS [1020] -> queue=337 | total_discovered=1020
+2026-04-09 00:13:29,769 [INFO]   BFS [1030] -> queue=337 | total_discovered=1030
+2026-04-09 00:13:43,358 [INFO]   BFS [1040] -> queue=328 | total_discovered=1040
+2026-04-09 00:13:59,425 [INFO]   BFS [1050] -> queue=323 | total_discovered=1050
+2026-04-09 00:14:15,344 [INFO]   BFS [1060] -> queue=314 | total_discovered=1060
+2026-04-09 00:14:31,401 [INFO]   BFS [1070] -> queue=322 | total_discovered=1070
+2026-04-09 00:14:49,030 [INFO]   BFS [1080] -> queue=321 | total_discovered=1080
+2026-04-09 00:15:05,766 [INFO]   BFS [1090] -> queue=316 | total_discovered=1090
+2026-04-09 00:15:18,824 [INFO]   BFS [1100] -> queue=306 | total_discovered=1100
+2026-04-09 00:15:35,758 [INFO]   BFS [1110] -> queue=297 | total_discovered=1110
+2026-04-09 00:15:50,742 [INFO]   BFS [1120] -> queue=290 | total_discovered=1120
+2026-04-09 00:16:06,506 [INFO]   BFS [1130] -> queue=283 | total_discovered=1130
+2026-04-09 00:16:21,398 [INFO]   BFS [1140] -> queue=274 | total_discovered=1140
+2026-04-09 00:16:35,656 [INFO]   BFS [1150] -> queue=266 | total_discovered=1150
+2026-04-09 00:16:50,747 [INFO]   BFS [1160] -> queue=259 | total_discovered=1160
+2026-04-09 00:17:04,821 [INFO]   BFS [1170] -> queue=256 | total_discovered=1170
+2026-04-09 00:17:19,420 [INFO]   BFS [1180] -> queue=246 | total_discovered=1180
+2026-04-09 00:17:33,170 [INFO]   BFS [1190] -> queue=237 | total_discovered=1190
+2026-04-09 00:17:47,644 [INFO]   BFS [1200] -> queue=231 | total_discovered=1200
+2026-04-09 00:18:02,483 [INFO]   BFS [1210] -> queue=221 | total_discovered=1210
+2026-04-09 00:18:16,671 [INFO]   BFS [1220] -> queue=213 | total_discovered=1220
+2026-04-09 00:18:30,681 [INFO]   BFS [1230] -> queue=213 | total_discovered=1230
+2026-04-09 00:18:45,536 [INFO]   BFS [1240] -> queue=205 | total_discovered=1240
+2026-04-09 00:19:05,837 [INFO]   BFS [1250] -> queue=197 | total_discovered=1250
+2026-04-09 00:19:20,030 [INFO]   BFS [1260] -> queue=188 | total_discovered=1260
+2026-04-09 00:19:34,475 [INFO]   BFS [1270] -> queue=181 | total_discovered=1270
+2026-04-09 00:19:52,728 [INFO]   BFS [1280] -> queue=171 | total_discovered=1280
+2026-04-09 00:20:08,742 [INFO]   BFS [1290] -> queue=162 | total_discovered=1290
+2026-04-09 00:20:23,998 [INFO]   BFS [1300] -> queue=156 | total_discovered=1300
+2026-04-09 00:20:40,429 [INFO]   BFS [1310] -> queue=146 | total_discovered=1310
+2026-04-09 00:21:02,818 [INFO]   BFS [1320] -> queue=138 | total_discovered=1320
+2026-04-09 00:21:21,184 [INFO]   BFS [1330] -> queue=133 | total_discovered=1330
+2026-04-09 00:21:42,754 [INFO]   BFS [1340] -> queue=126 | total_discovered=1340
+2026-04-09 00:21:59,405 [INFO]   BFS [1350] -> queue=118 | total_discovered=1350
+2026-04-09 00:22:13,208 [INFO]   BFS [1360] -> queue=110 | total_discovered=1360
+2026-04-09 00:22:28,261 [INFO]   BFS [1370] -> queue=101 | total_discovered=1370
+2026-04-09 00:22:43,544 [INFO]   BFS [1380] -> queue=91 | total_discovered=1380
+2026-04-09 00:22:59,820 [INFO]   BFS [1390] -> queue=81 | total_discovered=1390
+2026-04-09 00:23:14,403 [INFO]   BFS [1400] -> queue=73 | total_discovered=1400
+2026-04-09 00:23:30,958 [INFO]   BFS [1410] -> queue=64 | total_discovered=1410
+2026-04-09 00:23:47,116 [INFO]   BFS [1420] -> queue=55 | total_discovered=1420
+2026-04-09 00:24:01,801 [INFO]   BFS [1430] -> queue=45 | total_discovered=1430
+2026-04-09 00:24:18,598 [INFO]   BFS [1440] -> queue=36 | total_discovered=1440
+2026-04-09 00:24:32,933 [INFO]   BFS [1450] -> queue=30 | total_discovered=1450
+2026-04-09 00:24:46,711 [INFO]   BFS [1460] -> queue=20 | total_discovered=1460
+2026-04-09 00:25:01,690 [INFO]   BFS [1470] -> queue=13 | total_discovered=1470
+2026-04-09 00:25:19,131 [INFO]   BFS [1480] -> queue=3 | total_discovered=1480
+2026-04-09 00:25:24,649 [INFO]   BFS [1483] -> queue=0 | total_discovered=1483
+2026-04-09 00:25:25,850 [INFO] Discovery complete: 1483 unique product URLs.
+2026-04-09 00:25:25,870 [INFO] Saved 1483 links to e4c_product_links.json
+2026-04-09 00:25:25,871 [INFO] Scraping 1483 products (3 threads)...
+2026-04-09 00:25:27,122 [WARNING] Attempt 1/3 failed [https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/]: 404 Client Error: Not Found for url: https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-09 00:25:33,290 [WARNING] Attempt 2/3 failed [https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/]: 404 Client Error: Not Found for url: https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-09 00:25:37,833 [INFO] Progress: 50/1483 | errors so far: 0
+2026-04-09 00:25:45,313 [WARNING] Attempt 3/3 failed [https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/]: 404 Client Error: Not Found for url: https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-09 00:25:45,314 [ERROR] All retries exhausted: https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-09 00:25:45,314 [WARNING] FAILED (69/1483): https://www.engineeringforchange.org/solutions/product/jikojoy-charcoal-stove/
+2026-04-09 00:25:52,264 [INFO] Progress: 100/1483 | errors so far: 1
+2026-04-09 00:26:00,495 [INFO] Progress: 150/1483 | errors so far: 1
+2026-04-09 00:26:06,921 [INFO] Progress: 200/1483 | errors so far: 1
+2026-04-09 00:26:35,513 [INFO] Progress: 250/1483 | errors so far: 1
+2026-04-09 00:27:00,642 [INFO] Progress: 300/1483 | errors so far: 1
+2026-04-09 00:27:34,937 [INFO] Progress: 350/1483 | errors so far: 1
+2026-04-09 00:27:59,903 [INFO] Progress: 400/1483 | errors so far: 1
+2026-04-09 00:28:17,403 [INFO] Progress: 450/1483 | errors so far: 1
+2026-04-09 00:28:35,302 [INFO] Progress: 500/1483 | errors so far: 1
+2026-04-09 00:28:57,209 [INFO] Progress: 550/1483 | errors so far: 1
+2026-04-09 00:29:22,672 [INFO] Progress: 600/1483 | errors so far: 1
+2026-04-09 00:29:47,112 [INFO] Progress: 650/1483 | errors so far: 1
+2026-04-09 00:30:04,087 [INFO] Progress: 700/1483 | errors so far: 1
+2026-04-09 00:30:16,929 [WARNING] Attempt 1/3 failed [https://www.engineeringforchange.org/solutions/product/sanivation-container-based-sanitation-cbs-waste-collection-service/]: 404 Client Error: Not Found for url: https://www.engineeringforchange.org/solutions/product/sanivation-container-based-sanitation-cbs-waste-collection-service/
+2026-04-09 00:30:23,011 [WARNING] Attempt 2/3 failed [https://www.engineeringforchange.org/solutions/product/sanivation-container-based-sanitation-cbs-waste-collection-service/]: 404 Client Error: Not Found for url: https://www.engineeringforchange.org/solutions/product/sanivation-container-based-sanitation-cbs-waste-collection-service/
+2026-04-09 00:30:32,118 [INFO] Progress: 750/1483 | errors so far: 1
+2026-04-09 00:30:35,189 [WARNING] Attempt 3/3 failed [https://www.engineeringforchange.org/solutions/product/sanivation-container-based-sanitation-cbs-waste-collection-service/]: 404 Client Error: Not Found for url: https://www.engineeringforchange.org/solutions/product/sanivation-container-based-sanitation-cbs-waste-collection-service/
+2026-04-09 00:30:35,190 [ERROR] All retries exhausted: https://www.engineeringforchange.org/solutions/product/sanivation-container-based-sanitation-cbs-waste-collection-service/
+2026-04-09 00:30:35,190 [WARNING] FAILED (757/1483): https://www.engineeringforchange.org/solutions/product/sanivation-container-based-sanitation-cbs-waste-collection-service/
+2026-04-09 00:30:51,660 [INFO] Progress: 800/1483 | errors so far: 2
+2026-04-09 00:31:12,405 [INFO] Progress: 850/1483 | errors so far: 2
+2026-04-09 00:31:31,991 [INFO] Progress: 900/1483 | errors so far: 2
+2026-04-09 00:31:49,752 [INFO] Progress: 950/1483 | errors so far: 2
+2026-04-09 00:32:09,425 [INFO] Progress: 1000/1483 | errors so far: 2
+2026-04-09 00:32:30,199 [INFO] Progress: 1050/1483 | errors so far: 2
+2026-04-09 00:32:46,357 [INFO] Progress: 1100/1483 | errors so far: 2
+2026-04-09 00:33:03,928 [INFO] Progress: 1150/1483 | errors so far: 2
+2026-04-09 00:33:23,890 [INFO] Progress: 1200/1483 | errors so far: 2
+2026-04-09 00:33:38,581 [INFO] Progress: 1250/1483 | errors so far: 2
+2026-04-09 00:33:57,493 [INFO] Progress: 1300/1483 | errors so far: 2
+2026-04-09 00:34:14,961 [INFO] Progress: 1350/1483 | errors so far: 2
+2026-04-09 00:34:33,775 [INFO] Progress: 1400/1483 | errors so far: 2
+2026-04-09 00:34:44,719 [INFO] Progress: 1450/1483 | errors so far: 2
+2026-04-09 00:34:54,864 [INFO] Done. 1481 ok, 2 failed.
+2026-04-09 00:34:54,865 [INFO] Error list -> e4c_scrape_errors.json
+2026-04-09 00:34:54,865 [INFO] Merging -> e4c_solutions_all.json
